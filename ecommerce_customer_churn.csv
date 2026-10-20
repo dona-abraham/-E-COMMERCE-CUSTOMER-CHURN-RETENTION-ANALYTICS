@@ -1,0 +1,1531 @@
+CustomerID,Age,Gender,CityTier,Membership,Tenure,PreferredPaymentMode,OrderCount,CashbackAmount,SatisfactionScore,Churn
+CUST-10000,26,Male,Tier 2,Silver,7,UPI,5,181.07,4,0
+CUST-10001,41,Female,Tier 2,Gold,9,Debit Card,4,172.14,3,0
+CUST-10002,39,Female,Tier 1,Bronze,29,Credit Card,14,215.54,3,0
+CUST-10003,46,Female,Tier 1,Silver,7,Credit Card,4,168.44,3,1
+CUST-10004,29,Male,Tier 1,Silver,10,Debit Card,3,89.11,2,1
+CUST-10005,37,Male,Tier 1,Gold,0,Credit Card,2,165.97,3,1
+CUST-10006,23,Male,Tier 2,Platinum,0,UPI,6,175.35,4,0
+CUST-10007,44,Female,Tier 2,Bronze,3,Credit Card,5,115.29,4,1
+CUST-10008,42,Female,Tier 2,Silver,15,UPI,5,155.57,4,0
+CUST-10009,41,Female,Tier 2,Bronze,,Cash on Delivery,8,198.9,3,1
+CUST-10010,37,Male,Tier 3,Silver,1,Credit Card,6,227.72,3,1
+CUST-10011,41,Female,Tier 2,Bronze,7,Debit Card,5,185.9,4,1
+CUST-10012,53,Female,Tier 3,Bronze,14,Credit Card,4,178.33,2,1
+CUST-10013,34,Male,Tier 1,Bronze,17,UPI,7,239.44,2,0
+CUST-10014,38,Male,Tier 1,Silver,2,UPI,6,189.12,1,1
+CUST-10015,26,Male,Tier 1,Bronze,1,Debit Card,3,178.63,1,1
+CUST-10016,28,Male,Tier 2,Gold,39,Debit Card,11,272.52,2,0
+CUST-10017,37,Female,Tier 3,Silver,4,E-Wallet,6,153.41,1,1
+CUST-10018,48,Male,Tier 1,Bronze,26,Credit Card,10,284.19,2,0
+CUST-10019,34,Male,Tier 3,Gold,27,Credit Card,9,185.39,4,0
+CUST-10020,34,Female,Tier 1,Bronze,20,E-Wallet,5,207.52,1,1
+CUST-10021,32,Male,Tier 3,Silver,2,UPI,3,110.49,3,1
+CUST-10022,31,Male,Tier 1,Silver,24,E-Wallet,10,258.04,5,0
+CUST-10023,39,Male,Tier 1,Bronze,20,UPI,9,283.86,4,0
+CUST-10024,22,Male,Tier 2,Bronze,12,E-Wallet,2,137.61,3,1
+CUST-10025,49,Female,Tier 1,Bronze,5,Debit Card,4,160.31,5,0
+CUST-10026,30,Male,Tier 1,Platinum,4,UPI,3,174.31,3,0
+CUST-10027,44,Male,Tier 1,Silver,1,E-Wallet,6,182.12,1,1
+CUST-10028,24,Female,Tier 3,Silver,9,UPI,4,222.55,5,0
+CUST-10029,43,Male,Tier 2,Silver,12,Credit Card,4,173.77,5,0
+CUST-10030,43,Female,Tier 1,Bronze,6,Credit Card,2,134.39,3,1
+CUST-10031,40,Male,Tier 2,Silver,9,Credit Card,9,211.79,4,0
+CUST-10032,27,Male,Tier 2,Gold,6,Credit Card,7,176.01,4,0
+CUST-10033,39,Female,Tier 1,Bronze,14,Credit Card,6,173.17,2,1
+CUST-10034,25,Female,Tier 1,Bronze,32,UPI,8,205.48,2,0
+CUST-10035,34,Female,Tier 1,Bronze,2,UPI,1,117.37,3,1
+CUST-10036,47,Male,Tier 1,Silver,6,Debit Card,4,148.25,5,0
+CUST-10037,44,Male,Tier 2,Platinum,2,UPI,5,242.97,1,1
+CUST-10038,37,Female,Tier 1,Bronze,13,Credit Card,6,161.1,4,0
+CUST-10039,27,Male,Tier 2,Silver,18,Credit Card,5,184.4,1,1
+CUST-10040,43,Male,Tier 2,Bronze,37,Credit Card,8,233.78,3,0
+CUST-10041,37,Male,Tier 1,Platinum,4,Debit Card,2,162.9,4,0
+CUST-10042,18,Male,Tier 2,Bronze,41,Credit Card,14,286.24,4,0
+CUST-10043,44,Female,Tier 1,Silver,0,Credit Card,3,148.78,1,1
+CUST-10044,36,Male,Tier 3,Gold,12,Debit Card,6,205.55,3,0
+CUST-10045,49,Female,Tier 2,Gold,0,E-Wallet,4,176,4,1
+CUST-10046,26,Male,Tier 3,Silver,31,Credit Card,14,280.23,1,0
+CUST-10047,18,Female,Tier 2,Bronze,10,UPI,4,121.14,2,1
+CUST-10048,39,Female,Tier 1,Bronze,15,UPI,6,177.96,4,0
+CUST-10049,39,Male,Tier 2,Bronze,24,UPI,9,193.6,3,0
+CUST-10050,20,Female,Tier 3,Bronze,2,Cash on Delivery,4,,2,1
+CUST-10051,27,Female,Tier 2,Silver,0,Credit Card,1,133,3,1
+CUST-10052,64,Female,Tier 3,Bronze,29,Credit Card,9,238.76,5,0
+CUST-10053,33,Female,Tier 3,Bronze,5,E-Wallet,3,209.41,1,1
+CUST-10054,44,Female,Tier 1,Silver,1,Debit Card,3,139.88,4,1
+CUST-10055,30,Female,Tier 1,Platinum,8,UPI,5,203.24,1,1
+CUST-10056,18,Male,Tier 2,Silver,12,UPI,6,201.18,1,1
+CUST-10057,35,Male,Tier 1,Bronze,0,UPI,7,242.88,2,1
+CUST-10058,34,Male,Tier 3,Bronze,4,Cash on Delivery,5,197.29,3,1
+CUST-10059,33,Male,Tier 3,Platinum,0,Cash on Delivery,6,161.75,4,0
+CUST-10060,35,Male,Tier 1,Bronze,7,UPI,5,128.31,2,1
+CUST-10061,39,Male,Tier 1,Bronze,31,Credit Card,3,165.34,4,0
+CUST-10062,35,Female,Tier 2,Silver,56,E-Wallet,11,236.15,3,0
+CUST-10063,24,Male,Tier 1,Silver,14,Credit Card,9,198.59,2,0
+CUST-10064,41,Male,Tier 3,Silver,2,Credit Card,7,165.97,3,1
+CUST-10065,18,Female,Tier 1,Bronze,33,E-Wallet,16,316.83,4,0
+CUST-10066,18,Male,Tier 2,Bronze,10,Credit Card,5,225.23,4,0
+CUST-10067,44,Female,Tier 1,Platinum,2,Credit Card,8,203.74,4,0
+CUST-10068,42,Male,Tier 2,Bronze,35,Credit Card,11,269.71,3,0
+CUST-10069,36,Female,Tier 2,Silver,19,E-Wallet,8,212.93,4,0
+CUST-10070,23,Female,Tier 2,Gold,18,Debit Card,6,153.32,2,0
+CUST-10071,29,Male,Tier 1,Silver,17,UPI,3,178.04,4,0
+CUST-10072,34,Male,Tier 2,Bronze,3,Credit Card,7,171.16,5,0
+CUST-10073,21,Female,Tier 3,Bronze,3,UPI,6,192.65,1,1
+CUST-10074,29,Female,Tier 1,Silver,16,UPI,7,193.75,3,0
+CUST-10075,43,Female,Tier 1,Gold,,Credit Card,1,158.79,4,0
+CUST-10076,51,Female,Tier 1,Platinum,8,Debit Card,5,148.26,4,0
+CUST-10077,32,Male,Tier 2,Bronze,21,Credit Card,4,179.73,2,0
+CUST-10078,44,Male,Tier 2,Bronze,21,Cash on Delivery,5,154.81,5,0
+CUST-10079,18,Male,Tier 2,Platinum,8,UPI,6,176.67,4,0
+CUST-10080,43,Female,Tier 1,Gold,21,Cash on Delivery,7,94.94,2,1
+CUST-10081,28,Female,Tier 1,Gold,25,Credit Card,8,278.76,1,0
+CUST-10082,40,Male,Tier 2,Bronze,14,UPI,6,208.52,4,0
+CUST-10083,34,Male,Tier 2,Silver,3,UPI,4,144.98,1,1
+CUST-10084,50,Male,Tier 3,Gold,4,UPI,7,170.26,2,1
+CUST-10085,28,Male,Tier 1,Silver,5,Cash on Delivery,6,177.13,4,1
+CUST-10086,43,Female,Tier 2,Silver,1,Debit Card,3,177.51,4,0
+CUST-10087,34,Female,Tier 1,Bronze,4,Credit Card,6,135.24,4,0
+CUST-10088,35,Female,Tier 1,Silver,3,UPI,6,187.75,3,1
+CUST-10089,35,Male,Tier 2,Bronze,8,UPI,3,209.12,4,0
+CUST-10090,28,Male,Tier 2,Silver,33,UPI,10,205.98,5,0
+CUST-10091,36,Female,Tier 3,Platinum,1,Credit Card,3,158.41,2,0
+CUST-10092,36,Female,Tier 1,Bronze,17,Debit Card,8,282.1,4,0
+CUST-10093,39,Female,Tier 1,Gold,16,Credit Card,2,162.96,5,0
+CUST-10094,37,Female,Tier 2,Bronze,1,Debit Card,2,147.78,4,1
+CUST-10095,44,Male,Tier 2,Silver,35,UPI,8,231.2,4,0
+CUST-10096,46,Female,Tier 1,Platinum,11,UPI,8,203.97,2,0
+CUST-10097,26,Male,Tier 1,Bronze,6,Credit Card,6,230.99,3,1
+CUST-10098,45,Male,Tier 1,Bronze,19,Debit Card,1,120.02,4,0
+CUST-10099,25,Male,Tier 3,Silver,4,Credit Card,9,169.22,4,0
+CUST-10100,42,Male,Tier 1,Bronze,16,Credit Card,,156.26,5,0
+CUST-10101,43,Female,Tier 1,Gold,0,UPI,7,175,1,1
+CUST-10102,18,Male,Tier 1,Platinum,25,E-Wallet,6,183.56,1,0
+CUST-10103,37,Male,Tier 1,Silver,8,Debit Card,5,172.23,1,1
+CUST-10104,32,Female,Tier 1,Bronze,14,UPI,6,227.92,4,0
+CUST-10105,29,Male,Tier 2,Silver,3,E-Wallet,6,212.86,2,1
+CUST-10106,50,Male,Tier 1,Gold,15,E-Wallet,7,211.9,4,0
+CUST-10107,30,Female,Tier 3,Bronze,20,Credit Card,4,167.91,3,0
+CUST-10108,28,Male,Tier 1,Silver,8,Cash on Delivery,4,136.23,3,1
+CUST-10109,37,Male,Tier 2,Silver,13,Debit Card,3,90.56,2,1
+CUST-10110,43,Male,Tier 3,Silver,8,Debit Card,5,183.39,5,0
+CUST-10111,35,Male,Tier 2,Bronze,31,Credit Card,8,239.84,4,0
+CUST-10112,48,Female,Tier 2,Gold,9,Debit Card,4,164.75,5,0
+CUST-10113,42,Female,Tier 1,Bronze,25,Credit Card,12,247.95,4,0
+CUST-10114,18,Female,Tier 1,Bronze,22,Credit Card,11,265.94,2,0
+CUST-10115,31,Female,Tier 2,Gold,7,Credit Card,5,177.5,2,1
+CUST-10116,31,Female,Tier 3,Gold,3,E-Wallet,3,206.57,5,0
+CUST-10117,41,Male,Tier 2,Bronze,7,E-Wallet,8,252.98,4,0
+CUST-10118,18,Female,Tier 2,Bronze,24,Credit Card,7,232.79,1,0
+CUST-10119,62,Female,Tier 2,Bronze,3,E-Wallet,6,214.73,4,1
+CUST-10120,42,Female,Tier 2,Bronze,10,E-Wallet,4,129.29,3,1
+CUST-10121,38,Female,Tier 1,Bronze,22,UPI,6,211.89,3,0
+CUST-10122,48,Male,Tier 2,Bronze,6,Credit Card,6,203.29,2,1
+CUST-10123,60,Male,Tier 3,Silver,14,UPI,5,198.19,4,0
+CUST-10124,45,Male,Tier 1,Gold,3,Cash on Delivery,5,194.78,1,1
+CUST-10125,46,Male,Tier 2,Silver,1,UPI,7,217.58,2,1
+CUST-10126,38,Female,Tier 1,Silver,22,Debit Card,7,285.03,3,0
+CUST-10127,35,Female,Tier 2,Bronze,1,Debit Card,2,141.71,2,1
+CUST-10128,32,Male,Tier 1,Platinum,4,UPI,2,172.09,3,1
+CUST-10129,28,Male,Tier 2,Gold,27,Debit Card,6,177.87,1,0
+CUST-10130,30,Male,Tier 2,Gold,5,Credit Card,6,215.72,3,0
+CUST-10131,23,Male,Tier 1,Gold,50,Credit Card,11,280.18,5,0
+CUST-10132,36,Male,Tier 2,Platinum,54,E-Wallet,12,274.93,3,0
+CUST-10133,20,Male,Tier 2,Silver,4,E-Wallet,6,242.08,3,0
+CUST-10134,38,Female,Tier 3,Bronze,0,Credit Card,5,153.47,3,1
+CUST-10135,36,Male,Tier 1,Silver,17,Cash on Delivery,3,141.38,4,0
+CUST-10136,38,Male,Tier 1,Gold,8,Debit Card,3,162.37,4,0
+CUST-10137,31,Female,Tier 1,Gold,1,UPI,6,218.42,2,1
+CUST-10138,67,Male,Tier 3,Silver,17,UPI,10,245.38,5,0
+CUST-10139,50,Female,Tier 3,Bronze,0,E-Wallet,3,194.57,4,1
+CUST-10140,24,Female,Tier 2,Bronze,28,Cash on Delivery,9,208.15,4,0
+CUST-10141,39,Male,Tier 3,Platinum,2,Credit Card,3,121.78,1,1
+CUST-10142,30,Male,Tier 2,Silver,1,E-Wallet,5,189.24,1,1
+CUST-10143,26,Male,Tier 2,Silver,,Credit Card,4,,4,1
+CUST-10144,23,Male,Tier 1,Bronze,45,UPI,16,328.29,5,0
+CUST-10145,41,Male,Tier 2,Bronze,16,UPI,10,239.18,4,0
+CUST-10146,30,Female,Tier 1,Gold,22,UPI,6,181.8,2,0
+CUST-10147,46,Male,Tier 3,Silver,7,Credit Card,5,177.75,1,1
+CUST-10148,46,Male,Tier 2,Gold,5,E-Wallet,7,204.87,4,0
+CUST-10149,50,Male,Tier 2,Silver,3,Credit Card,7,194.85,4,0
+CUST-10150,28,Female,Tier 1,Silver,,Credit Card,5,173.91,2,1
+CUST-10151,41,Male,Tier 1,Bronze,11,UPI,9,215.89,1,1
+CUST-10152,43,Male,Tier 1,Gold,13,Debit Card,5,205.7,3,0
+CUST-10153,32,Male,Tier 1,Silver,4,E-Wallet,3,161.82,4,1
+CUST-10154,29,Female,Tier 1,Silver,41,Debit Card,12,331.7,4,0
+CUST-10155,53,Male,Tier 3,Silver,2,Credit Card,4,172.82,4,1
+CUST-10156,39,Female,Tier 2,Platinum,47,E-Wallet,14,271.47,4,0
+CUST-10157,43,Female,Tier 1,Bronze,0,UPI,4,248.12,1,1
+CUST-10158,28,Male,Tier 1,Gold,9,Credit Card,7,216.41,4,0
+CUST-10159,24,Female,Tier 1,Bronze,5,UPI,5,209.7,5,0
+CUST-10160,31,Male,Tier 2,Silver,8,Debit Card,9,245.76,5,0
+CUST-10161,35,Female,Tier 2,Bronze,11,UPI,11,270.69,5,0
+CUST-10162,26,Female,Tier 3,Bronze,8,Debit Card,7,220.07,3,0
+CUST-10163,36,Female,Tier 2,Silver,7,E-Wallet,7,170.94,4,0
+CUST-10164,20,Male,Tier 3,Bronze,18,E-Wallet,5,191.03,5,0
+CUST-10165,25,Female,Tier 3,Silver,16,UPI,5,140.25,4,0
+CUST-10166,43,Male,Tier 1,Platinum,25,Credit Card,5,174.77,2,0
+CUST-10167,43,Male,Tier 3,Bronze,4,E-Wallet,3,134.23,5,1
+CUST-10168,33,Male,Tier 1,Gold,,UPI,3,166.72,3,0
+CUST-10169,26,Female,Tier 3,Silver,12,UPI,4,178.02,2,0
+CUST-10170,26,Female,Tier 1,Silver,6,Debit Card,4,182.43,1,1
+CUST-10171,33,Male,Tier 3,Bronze,9,E-Wallet,9,236.62,4,0
+CUST-10172,43,Male,Tier 3,Bronze,5,UPI,6,173.8,3,1
+CUST-10173,46,Male,Tier 3,Bronze,2,Credit Card,5,172.17,1,1
+CUST-10174,32,Female,Tier 2,Bronze,3,Debit Card,3,183.61,4,1
+CUST-10175,25,Male,Tier 1,Bronze,1,E-Wallet,4,200.04,4,1
+CUST-10176,39,Female,Tier 1,Silver,,Credit Card,9,193.6,4,0
+CUST-10177,28,Male,Tier 1,Gold,15,Cash on Delivery,7,158.07,2,1
+CUST-10178,31,Female,Tier 1,Gold,,UPI,19,326.19,4,0
+CUST-10179,50,Male,Tier 2,Silver,18,UPI,8,247.36,1,1
+CUST-10180,45,Male,Tier 1,Bronze,0,Credit Card,6,228.45,3,1
+CUST-10181,38,Male,Tier 3,Bronze,30,Credit Card,10,212.26,3,0
+CUST-10182,24,Female,Tier 2,Bronze,27,Cash on Delivery,10,249.22,4,0
+CUST-10183,39,Female,Tier 3,Bronze,8,Credit Card,7,259.03,3,0
+CUST-10184,47,Male,Tier 1,Silver,12,UPI,9,240.46,1,0
+CUST-10185,33,Female,Tier 3,Silver,52,Debit Card,9,270.65,3,0
+CUST-10186,50,Female,Tier 3,Bronze,10,Credit Card,9,257.96,3,1
+CUST-10187,49,Female,Tier 2,Bronze,33,Credit Card,13,248.69,5,0
+CUST-10188,53,Female,Tier 2,Gold,1,UPI,8,210.3,5,0
+CUST-10189,40,Male,Tier 2,Gold,,Cash on Delivery,6,193.04,2,1
+CUST-10190,42,Male,Tier 1,Bronze,8,Debit Card,4,171.12,2,1
+CUST-10191,51,Female,Tier 2,Platinum,12,Debit Card,1,159.49,2,1
+CUST-10192,41,Female,Tier 1,Platinum,23,Debit Card,6,204.26,4,0
+CUST-10193,31,Female,Tier 1,Bronze,60,Debit Card,15,211.91,1,0
+CUST-10194,32,Male,Tier 1,Bronze,6,Debit Card,6,152.61,2,1
+CUST-10195,39,Male,Tier 1,Silver,0,E-Wallet,3,90.38,3,1
+CUST-10196,24,Female,Tier 1,Platinum,22,Debit Card,10,245.26,2,0
+CUST-10197,35,Female,Tier 1,Gold,12,Debit Card,6,199.21,1,0
+CUST-10198,47,Female,Tier 3,Bronze,3,Credit Card,5,188.5,3,1
+CUST-10199,18,Female,Tier 2,Bronze,9,Cash on Delivery,3,127.23,2,1
+CUST-10200,52,Female,Tier 3,Silver,18,Credit Card,3,176.22,3,0
+CUST-10201,48,Male,Tier 1,Silver,20,Credit Card,10,261.49,5,0
+CUST-10202,32,Male,Tier 1,Bronze,9,UPI,5,142.35,2,1
+CUST-10203,42,Female,Tier 2,Gold,5,UPI,3,112.02,3,1
+CUST-10204,37,Female,Tier 1,Silver,50,Debit Card,13,276,5,0
+CUST-10205,49,Male,Tier 1,Gold,15,Debit Card,5,233.75,5,0
+CUST-10206,46,Male,Tier 2,Gold,7,UPI,5,230.99,3,1
+CUST-10207,22,Female,Tier 1,Gold,4,Credit Card,3,172.9,4,0
+CUST-10208,42,Male,Tier 2,Silver,18,E-Wallet,10,218.1,1,1
+CUST-10209,34,Male,Tier 2,Silver,3,UPI,3,182.61,4,0
+CUST-10210,37,Female,Tier 1,Bronze,2,Debit Card,7,190.43,5,0
+CUST-10211,29,Female,Tier 1,Silver,10,Debit Card,3,132.97,3,0
+CUST-10212,54,Female,Tier 2,Bronze,4,Credit Card,5,115.68,3,1
+CUST-10213,47,Male,Tier 2,Silver,13,UPI,5,183.07,2,1
+CUST-10214,29,Female,Tier 1,Bronze,1,Debit Card,5,161.1,4,1
+CUST-10215,23,Male,Tier 3,Bronze,14,Debit Card,8,218.89,4,0
+CUST-10216,33,Male,Tier 1,Bronze,4,UPI,6,123.02,4,1
+CUST-10217,41,Female,Tier 2,Bronze,0,Cash on Delivery,4,173.09,1,1
+CUST-10218,39,Female,Tier 3,Gold,1,Debit Card,4,95.07,3,1
+CUST-10219,49,Female,Tier 1,Gold,37,Cash on Delivery,9,260.64,4,0
+CUST-10220,44,Female,Tier 1,Silver,28,Debit Card,15,315.66,2,0
+CUST-10221,46,Female,Tier 1,Bronze,3,Credit Card,6,183.64,2,1
+CUST-10222,40,Male,Tier 1,Bronze,21,Credit Card,7,220.88,2,0
+CUST-10223,23,Male,Tier 1,Bronze,13,Debit Card,5,150.66,4,0
+CUST-10224,35,Male,Tier 2,Bronze,49,Credit Card,13,278.17,4,0
+CUST-10225,47,Male,Tier 1,Gold,6,Credit Card,5,203.84,4,0
+CUST-10226,36,Female,Tier 2,Bronze,16,E-Wallet,7,111.17,2,1
+CUST-10227,42,Male,Tier 3,Bronze,0,E-Wallet,3,142.58,5,0
+CUST-10228,33,Female,Tier 3,Bronze,7,UPI,,167.32,,1
+CUST-10229,26,Female,Tier 2,Bronze,46,Credit Card,5,174.11,3,0
+CUST-10230,35,Female,Tier 1,Silver,10,Credit Card,7,247.71,1,1
+CUST-10231,40,Male,Tier 2,Silver,4,Credit Card,4,134.28,2,1
+CUST-10232,30,Female,Tier 2,Bronze,1,UPI,4,149.37,5,0
+CUST-10233,34,Male,Tier 1,Bronze,17,Cash on Delivery,7,146.52,3,1
+CUST-10234,27,Male,Tier 1,Bronze,14,Debit Card,9,273.31,3,0
+CUST-10235,48,Female,Tier 3,Bronze,6,Credit Card,4,160.61,2,1
+CUST-10236,34,Male,Tier 1,Bronze,42,Debit Card,13,262.85,4,0
+CUST-10237,51,Male,Tier 1,Platinum,0,Debit Card,3,154.43,2,1
+CUST-10238,52,Female,Tier 1,Silver,5,Debit Card,5,199.09,3,0
+CUST-10239,36,Male,Tier 1,Silver,35,UPI,12,274.42,3,0
+CUST-10240,26,Female,Tier 3,Silver,5,UPI,4,247.44,3,0
+CUST-10241,18,Female,Tier 2,Silver,4,Credit Card,8,229.62,3,0
+CUST-10242,22,Female,Tier 2,Silver,10,Credit Card,6,178.04,3,0
+CUST-10243,23,Male,Tier 1,Silver,24,Cash on Delivery,11,235.16,4,0
+CUST-10244,50,Male,Tier 1,Gold,1,Credit Card,4,156.22,4,0
+CUST-10245,38,Female,Tier 2,Bronze,40,Credit Card,12,218.94,4,0
+CUST-10246,40,Male,Tier 1,Silver,22,Credit Card,12,265.2,1,1
+CUST-10247,18,Female,Tier 1,Silver,2,Credit Card,4,191.5,4,0
+CUST-10248,25,Female,Tier 2,Gold,17,Debit Card,3,137.6,2,0
+CUST-10249,45,Female,Tier 1,Silver,6,E-Wallet,11,227.78,2,1
+CUST-10250,39,Male,Tier 2,Silver,7,Debit Card,3,201.48,5,0
+CUST-10251,35,Male,Tier 1,Bronze,21,Debit Card,3,113.21,4,0
+CUST-10252,42,Female,Tier 1,Silver,46,UPI,13,,4,0
+CUST-10253,53,Male,Tier 1,Bronze,1,Debit Card,7,169.41,5,0
+CUST-10254,34,Male,Tier 3,Bronze,7,E-Wallet,3,,5,1
+CUST-10255,37,Female,Tier 3,Bronze,9,E-Wallet,4,179.59,4,1
+CUST-10256,38,Female,Tier 3,Silver,6,Credit Card,3,145.18,4,1
+CUST-10257,60,Female,Tier 2,Bronze,6,UPI,4,161.41,4,1
+CUST-10258,18,Female,Tier 1,Bronze,0,Debit Card,7,238.59,2,1
+CUST-10259,43,Male,Tier 2,Gold,16,Cash on Delivery,7,183.26,2,1
+CUST-10260,35,Female,Tier 2,Bronze,8,Debit Card,9,251.25,4,0
+CUST-10261,42,Female,Tier 3,Silver,3,Cash on Delivery,5,225.34,3,1
+CUST-10262,30,Male,Tier 1,Silver,23,UPI,9,214.33,2,0
+CUST-10263,36,Male,Tier 2,Bronze,22,Credit Card,6,214.11,3,0
+CUST-10264,44,Female,Tier 1,Gold,9,Debit Card,6,184.75,3,0
+CUST-10265,68,Female,Tier 1,Bronze,4,Cash on Delivery,8,243.72,5,1
+CUST-10266,45,Female,Tier 2,Silver,14,E-Wallet,,144.86,4,0
+CUST-10267,28,Female,Tier 2,Silver,4,Credit Card,5,130.63,3,1
+CUST-10268,32,Male,Tier 1,Silver,3,UPI,6,180.26,5,0
+CUST-10269,32,Male,Tier 1,Silver,18,Debit Card,4,141.33,5,0
+CUST-10270,19,Female,Tier 2,Bronze,0,Credit Card,9,212.5,3,1
+CUST-10271,33,Female,Tier 2,Bronze,1,Debit Card,7,197.41,5,0
+CUST-10272,44,Female,Tier 3,Gold,0,Credit Card,3,177.6,3,1
+CUST-10273,24,Female,Tier 3,Silver,2,E-Wallet,3,143.77,2,1
+CUST-10274,47,Male,Tier 2,Gold,1,Debit Card,5,155.28,2,1
+CUST-10275,41,Male,Tier 1,Gold,60,E-Wallet,15,289.45,4,0
+CUST-10276,29,Female,Tier 2,Gold,4,Credit Card,,144.93,3,0
+CUST-10277,35,Female,Tier 1,Silver,2,Credit Card,4,139.98,4,0
+CUST-10278,52,Female,Tier 1,Bronze,3,Credit Card,6,143.61,4,1
+CUST-10279,44,Female,Tier 3,Gold,38,Credit Card,9,230.08,1,0
+CUST-10280,37,Female,Tier 1,Silver,10,Credit Card,9,210.94,1,1
+CUST-10281,34,Male,Tier 3,Bronze,6,Credit Card,6,220.99,3,1
+CUST-10282,37,Male,Tier 2,Gold,28,UPI,8,172.58,2,0
+CUST-10283,31,Male,Tier 2,Gold,7,Credit Card,7,187.74,4,0
+CUST-10284,18,Female,Tier 2,Silver,5,Debit Card,4,222.39,4,0
+CUST-10285,57,Male,Tier 3,Bronze,3,Debit Card,7,175.81,4,1
+CUST-10286,38,Male,Tier 2,Bronze,6,E-Wallet,3,148.9,3,1
+CUST-10287,40,Female,Tier 2,Gold,5,E-Wallet,3,119.52,4,0
+CUST-10288,36,Male,Tier 1,Platinum,15,Debit Card,5,139.55,4,0
+CUST-10289,29,Female,Tier 2,Bronze,,Debit Card,7,250.42,5,0
+CUST-10290,35,Male,Tier 1,Bronze,12,Credit Card,3,161.13,4,0
+CUST-10291,21,Male,Tier 2,Gold,0,Cash on Delivery,3,160.01,4,1
+CUST-10292,59,Female,Tier 2,Bronze,2,Credit Card,3,105.11,2,1
+CUST-10293,24,Male,Tier 2,Silver,7,Credit Card,1,142.76,4,0
+CUST-10294,26,Male,Tier 1,Platinum,38,Credit Card,18,370.72,5,0
+CUST-10295,32,Female,Tier 1,Bronze,6,Debit Card,2,178.48,2,1
+CUST-10296,49,Female,Tier 2,Silver,15,Credit Card,11,272.05,2,0
+CUST-10297,37,Male,Tier 1,Bronze,4,UPI,3,122.12,2,1
+CUST-10298,24,Female,Tier 1,Bronze,1,Credit Card,2,153.39,4,1
+CUST-10299,49,Male,Tier 1,Gold,0,UPI,,188.03,3,0
+CUST-10300,44,Male,Tier 3,Silver,5,Credit Card,5,126.17,1,1
+CUST-10301,42,Female,Tier 2,Platinum,2,Credit Card,6,158.36,5,0
+CUST-10302,44,Female,Tier 1,Silver,2,E-Wallet,3,182.64,4,1
+CUST-10303,60,Female,Tier 1,Bronze,20,Credit Card,8,242.28,3,0
+CUST-10304,58,Female,Tier 1,Bronze,0,E-Wallet,5,133.54,3,1
+CUST-10305,30,Female,Tier 2,Bronze,11,UPI,11,275.85,2,0
+CUST-10306,53,Male,Tier 2,Bronze,6,Credit Card,6,194.86,3,1
+CUST-10307,40,Male,Tier 1,Bronze,9,Cash on Delivery,4,191.43,3,1
+CUST-10308,41,Female,Tier 1,Bronze,11,Credit Card,7,184.96,3,1
+CUST-10309,20,Male,Tier 1,Silver,5,E-Wallet,6,211.36,4,0
+CUST-10310,35,Male,Tier 2,Gold,4,Credit Card,4,193.31,4,0
+CUST-10311,28,Male,Tier 2,Silver,,E-Wallet,4,157.46,2,0
+CUST-10312,45,Male,Tier 1,Gold,28,Credit Card,12,264.53,3,0
+CUST-10313,47,Female,Tier 1,Bronze,2,Debit Card,6,172.54,4,1
+CUST-10314,18,Female,Tier 1,Bronze,1,UPI,6,241.55,1,1
+CUST-10315,36,Female,Tier 3,Silver,31,Cash on Delivery,9,224.39,1,0
+CUST-10316,48,Male,Tier 1,Silver,6,E-Wallet,4,140.34,4,0
+CUST-10317,35,Male,Tier 2,Bronze,11,E-Wallet,6,170.53,4,0
+CUST-10318,44,Male,Tier 2,Gold,6,E-Wallet,1,135.8,2,1
+CUST-10319,40,Male,Tier 1,Gold,1,Credit Card,3,178.6,4,0
+CUST-10320,40,Female,Tier 1,Silver,12,Credit Card,7,163.93,4,0
+CUST-10321,34,Female,Tier 1,Bronze,10,Credit Card,7,259.43,5,0
+CUST-10322,24,Female,Tier 2,Gold,3,Debit Card,7,213.26,2,1
+CUST-10323,25,Male,Tier 2,Silver,8,Debit Card,3,169.99,4,0
+CUST-10324,44,Female,Tier 2,Gold,22,UPI,10,237.08,1,0
+CUST-10325,37,Female,Tier 2,Gold,12,Credit Card,6,192.58,4,0
+CUST-10326,35,Female,Tier 1,Gold,1,UPI,4,163.55,4,0
+CUST-10327,32,Female,Tier 3,Silver,11,Credit Card,4,198.53,3,0
+CUST-10328,33,Male,Tier 2,Bronze,16,Credit Card,7,203.76,4,0
+CUST-10329,47,Male,Tier 1,Silver,22,Debit Card,13,299.01,1,0
+CUST-10330,33,Male,Tier 3,Silver,13,UPI,9,214.98,3,0
+CUST-10331,23,Female,Tier 2,Gold,2,UPI,6,197.87,2,0
+CUST-10332,44,Male,Tier 2,Bronze,17,UPI,2,119.88,4,0
+CUST-10333,34,Male,Tier 2,Bronze,15,Credit Card,6,,1,1
+CUST-10334,37,Male,Tier 3,Gold,0,UPI,5,154.99,4,1
+CUST-10335,53,Male,Tier 2,Gold,7,Credit Card,5,170.25,4,0
+CUST-10336,36,Female,Tier 1,Platinum,5,Debit Card,9,218.55,4,0
+CUST-10337,39,Female,Tier 1,Gold,15,Debit Card,9,217.38,2,0
+CUST-10338,25,Male,Tier 3,Silver,3,Credit Card,3,177.67,4,0
+CUST-10339,34,Male,Tier 1,Silver,12,Credit Card,4,158.5,1,1
+CUST-10340,43,Male,Tier 1,Gold,34,Cash on Delivery,5,221.82,4,0
+CUST-10341,21,Male,Tier 1,Silver,22,Cash on Delivery,2,119.45,4,0
+CUST-10342,39,Male,Tier 1,Silver,35,Debit Card,18,341.08,3,0
+CUST-10343,38,Male,Tier 2,Bronze,53,Credit Card,7,180.73,4,0
+CUST-10344,37,Male,Tier 3,Silver,0,Credit Card,1,144.63,1,1
+CUST-10345,47,Female,Tier 1,Gold,13,Debit Card,5,179.52,3,0
+CUST-10346,40,Female,Tier 1,Bronze,7,Cash on Delivery,11,247.35,2,1
+CUST-10347,51,Male,Tier 1,Bronze,27,Credit Card,5,215.65,5,0
+CUST-10348,27,Male,Tier 3,Bronze,4,UPI,2,124.37,5,0
+CUST-10349,38,Female,Tier 2,Bronze,55,Credit Card,,269.6,4,0
+CUST-10350,37,Male,Tier 1,Bronze,13,Cash on Delivery,5,156.93,5,0
+CUST-10351,26,Female,Tier 3,Silver,22,Debit Card,9,231.38,3,0
+CUST-10352,46,Female,Tier 3,Platinum,1,UPI,5,144.13,5,0
+CUST-10353,60,Male,Tier 3,Silver,2,Debit Card,2,124.12,3,1
+CUST-10354,36,Male,Tier 3,Bronze,19,UPI,8,213.54,4,0
+CUST-10355,42,Female,Tier 1,Bronze,0,Credit Card,4,222.44,,1
+CUST-10356,37,Male,Tier 2,Silver,23,Credit Card,8,219.02,1,0
+CUST-10357,29,Female,Tier 2,Bronze,0,Cash on Delivery,2,193.64,3,1
+CUST-10358,18,Female,Tier 3,Gold,14,E-Wallet,5,186.61,1,1
+CUST-10359,29,Female,Tier 2,Silver,6,E-Wallet,7,192.39,5,0
+CUST-10360,23,Male,Tier 2,Gold,13,UPI,3,202.18,2,0
+CUST-10361,54,Female,Tier 2,Bronze,16,E-Wallet,2,157.11,3,1
+CUST-10362,35,Male,Tier 1,Silver,5,Credit Card,9,208.72,4,0
+CUST-10363,33,Female,Tier 2,Bronze,1,Debit Card,,170.12,2,1
+CUST-10364,45,Female,Tier 3,Platinum,1,Credit Card,3,147.22,3,1
+CUST-10365,25,Male,Tier 3,Silver,12,UPI,1,72.33,4,1
+CUST-10366,29,Female,Tier 1,Bronze,10,Debit Card,1,160.08,2,1
+CUST-10367,37,Female,Tier 1,Bronze,18,Credit Card,7,236.85,4,0
+CUST-10368,47,Male,Tier 1,Bronze,9,UPI,11,307.14,2,0
+CUST-10369,42,Male,Tier 2,Silver,7,E-Wallet,6,204.66,2,1
+CUST-10370,39,Male,Tier 3,Bronze,7,Debit Card,6,184.54,4,0
+CUST-10371,37,Male,Tier 1,Silver,0,Credit Card,2,169.05,3,1
+CUST-10372,41,Male,Tier 2,Bronze,5,Credit Card,4,193.49,5,1
+CUST-10373,39,Female,Tier 3,Silver,52,Credit Card,10,289.15,5,0
+CUST-10374,26,Male,Tier 2,Gold,28,Credit Card,12,262.66,3,0
+CUST-10375,37,Male,Tier 2,Gold,5,UPI,5,175.03,3,1
+CUST-10376,26,Female,Tier 2,Gold,12,UPI,4,146.53,3,0
+CUST-10377,37,Male,Tier 2,Bronze,26,UPI,7,220.12,2,0
+CUST-10378,32,Female,Tier 1,Bronze,8,Debit Card,7,157.55,3,1
+CUST-10379,62,Male,Tier 2,Silver,0,E-Wallet,5,203.28,4,1
+CUST-10380,36,Male,Tier 2,Bronze,1,Credit Card,4,185.64,3,1
+CUST-10381,22,Female,Tier 3,Silver,9,Debit Card,4,185.55,2,1
+CUST-10382,35,Female,Tier 2,Bronze,48,E-Wallet,10,244.15,3,0
+CUST-10383,42,Female,Tier 2,Bronze,16,Credit Card,9,,1,1
+CUST-10384,53,Female,Tier 1,Bronze,1,Credit Card,3,182.16,4,1
+CUST-10385,31,Female,Tier 2,Gold,2,E-Wallet,3,137.79,3,1
+CUST-10386,21,Male,Tier 1,Bronze,20,Debit Card,4,150.32,3,0
+CUST-10387,45,Male,Tier 1,Silver,25,UPI,10,213.61,3,0
+CUST-10388,23,Female,Tier 2,Bronze,13,Credit Card,4,184.54,,0
+CUST-10389,32,Female,Tier 3,Silver,14,UPI,11,222,1,0
+CUST-10390,34,Female,Tier 1,Bronze,0,Credit Card,1,164.5,5,1
+CUST-10391,36,Male,Tier 1,Gold,24,Credit Card,5,219.69,3,0
+CUST-10392,43,Male,Tier 3,Gold,21,UPI,5,153.63,5,0
+CUST-10393,30,Female,Tier 1,Bronze,4,Credit Card,2,138.43,4,1
+CUST-10394,34,Male,Tier 2,Platinum,17,Debit Card,9,228.5,1,0
+CUST-10395,36,Female,Tier 2,Platinum,3,Credit Card,6,218.52,4,0
+CUST-10396,38,Female,Tier 2,Gold,0,Credit Card,6,240.28,4,0
+CUST-10397,37,Male,Tier 1,Gold,3,Credit Card,4,117.44,1,1
+CUST-10398,41,Female,Tier 1,Bronze,2,Credit Card,3,146.45,2,1
+CUST-10399,45,Female,Tier 2,Silver,,E-Wallet,5,172.02,4,1
+CUST-10400,40,Male,Tier 2,Bronze,7,Credit Card,1,89.98,4,1
+CUST-10401,41,Female,Tier 1,Bronze,9,Debit Card,4,153.45,4,0
+CUST-10402,21,Male,Tier 2,Platinum,9,Credit Card,4,180.83,4,0
+CUST-10403,37,Female,Tier 1,Bronze,4,Credit Card,3,147.64,4,1
+CUST-10404,41,Male,Tier 2,Gold,0,Cash on Delivery,5,133.66,4,1
+CUST-10405,44,Female,Tier 1,Gold,13,Credit Card,12,350.22,4,0
+CUST-10406,30,Male,Tier 3,Gold,7,Cash on Delivery,4,175.99,2,1
+CUST-10407,30,Male,Tier 1,Platinum,4,Credit Card,5,183.35,5,0
+CUST-10408,31,Female,Tier 1,Bronze,28,UPI,13,243.06,1,0
+CUST-10409,42,Male,Tier 1,Bronze,19,UPI,9,235.82,3,0
+CUST-10410,47,Male,Tier 1,Silver,27,E-Wallet,12,259.07,4,0
+CUST-10411,32,Female,Tier 3,Bronze,9,UPI,9,171.34,3,0
+CUST-10412,46,Female,Tier 3,Bronze,1,Debit Card,5,147.89,1,1
+CUST-10413,38,Female,Tier 1,Bronze,16,Credit Card,5,203.85,1,1
+CUST-10414,35,Female,Tier 1,Gold,3,Credit Card,5,238.32,4,1
+CUST-10415,34,Male,Tier 2,Silver,8,E-Wallet,4,179.01,5,0
+CUST-10416,44,Male,Tier 3,Bronze,0,Debit Card,5,213.09,4,1
+CUST-10417,40,Male,Tier 2,Silver,24,Debit Card,9,223.33,3,0
+CUST-10418,59,Female,Tier 1,Bronze,1,UPI,4,165.4,3,1
+CUST-10419,28,Female,Tier 1,Bronze,32,Debit Card,15,332.73,2,0
+CUST-10420,42,Female,Tier 2,Gold,27,Cash on Delivery,6,241.88,1,0
+CUST-10421,31,Female,Tier 1,Silver,8,UPI,6,231.03,2,1
+CUST-10422,28,Male,Tier 2,Gold,19,UPI,2,112.01,3,0
+CUST-10423,36,Male,Tier 1,Bronze,13,E-Wallet,6,189.99,2,1
+CUST-10424,38,Male,Tier 2,Gold,22,Credit Card,6,,1,0
+CUST-10425,66,Female,Tier 1,Silver,7,Credit Card,8,208.21,4,0
+CUST-10426,35,Male,Tier 2,Silver,21,Debit Card,6,203.64,5,0
+CUST-10427,25,Female,Tier 2,Silver,8,Credit Card,4,192.62,5,0
+CUST-10428,39,Male,Tier 2,Gold,39,UPI,13,306.08,4,0
+CUST-10429,18,Male,Tier 1,Silver,9,E-Wallet,7,254.58,1,1
+CUST-10430,36,Male,Tier 2,Silver,8,Debit Card,5,170.12,4,1
+CUST-10431,37,Female,Tier 2,Platinum,21,Debit Card,4,127.08,1,0
+CUST-10432,44,Female,Tier 2,Gold,24,Cash on Delivery,12,274.75,4,0
+CUST-10433,46,Male,Tier 2,Silver,,Debit Card,2,200.51,4,0
+CUST-10434,31,Male,Tier 2,Gold,2,Debit Card,4,153.69,4,0
+CUST-10435,35,Female,Tier 3,Bronze,8,Debit Card,5,200.61,5,0
+CUST-10436,29,Male,Tier 1,Bronze,48,E-Wallet,9,248.87,4,0
+CUST-10437,25,Female,Tier 3,Silver,19,UPI,9,233.74,4,0
+CUST-10438,40,Female,Tier 2,Platinum,23,UPI,2,144.21,2,0
+CUST-10439,24,Male,Tier 1,Platinum,0,E-Wallet,8,188.3,5,0
+CUST-10440,32,Male,Tier 1,Bronze,8,Debit Card,8,147.55,2,1
+CUST-10441,27,Female,Tier 1,Silver,14,Debit Card,3,122.64,5,0
+CUST-10442,42,Male,Tier 2,Bronze,24,E-Wallet,12,252.29,3,0
+CUST-10443,55,Male,Tier 2,Platinum,0,Debit Card,5,212.92,2,1
+CUST-10444,23,Female,Tier 2,Platinum,26,UPI,5,176.91,4,0
+CUST-10445,18,Female,Tier 2,Silver,11,Cash on Delivery,,188.43,1,1
+CUST-10446,35,Female,Tier 1,Gold,3,UPI,6,165.27,4,1
+CUST-10447,37,Female,Tier 1,Gold,5,UPI,5,199.7,2,1
+CUST-10448,39,Male,Tier 1,Silver,4,E-Wallet,2,184.75,5,1
+CUST-10449,32,Male,Tier 1,Bronze,10,E-Wallet,8,247.9,4,1
+CUST-10450,34,Female,Tier 1,Silver,0,Debit Card,7,222.18,4,0
+CUST-10451,40,Female,Tier 1,Silver,2,Credit Card,3,111.73,3,1
+CUST-10452,47,Male,Tier 2,Silver,23,Debit Card,8,205.45,1,0
+CUST-10453,18,Female,Tier 2,Bronze,1,UPI,4,226.42,4,0
+CUST-10454,33,Male,Tier 3,Platinum,3,Debit Card,4,201.66,2,0
+CUST-10455,39,Male,Tier 3,Bronze,8,UPI,4,121.87,3,1
+CUST-10456,27,Male,Tier 2,Silver,,Debit Card,6,190.33,4,0
+CUST-10457,54,Male,Tier 1,Silver,20,UPI,,226.89,3,0
+CUST-10458,30,Male,Tier 2,Silver,8,Credit Card,5,157.14,2,1
+CUST-10459,36,Male,Tier 2,Silver,21,UPI,12,194.72,2,0
+CUST-10460,42,Male,Tier 1,Bronze,13,UPI,6,194.96,2,1
+CUST-10461,31,Female,Tier 1,Bronze,,Credit Card,1,108.37,5,1
+CUST-10462,18,Female,Tier 3,Silver,2,Credit Card,7,180.48,1,1
+CUST-10463,32,Female,Tier 1,Silver,8,UPI,6,181.36,5,0
+CUST-10464,47,Female,Tier 2,Bronze,7,Debit Card,8,211.99,2,1
+CUST-10465,33,Male,Tier 2,Gold,,Credit Card,8,215.73,1,0
+CUST-10466,28,Male,Tier 1,Silver,,Cash on Delivery,4,141.48,4,1
+CUST-10467,46,Female,Tier 1,Silver,6,UPI,6,185.39,1,1
+CUST-10468,33,Male,Tier 1,Gold,2,Cash on Delivery,3,103.28,4,1
+CUST-10469,31,Female,Tier 1,Bronze,3,Debit Card,3,165.33,5,0
+CUST-10470,38,Male,Tier 1,Bronze,11,Debit Card,6,106.31,1,1
+CUST-10471,44,Female,Tier 3,Gold,7,E-Wallet,7,195.32,4,0
+CUST-10472,60,Male,Tier 1,Silver,10,Debit Card,3,183.58,3,1
+CUST-10473,45,Female,Tier 2,Silver,2,UPI,3,124.22,2,1
+CUST-10474,48,Female,Tier 1,Gold,15,Credit Card,4,189.49,2,0
+CUST-10475,31,Female,Tier 3,Gold,26,Debit Card,8,250.67,,0
+CUST-10476,26,Male,Tier 1,Platinum,4,Credit Card,3,56.76,1,1
+CUST-10477,37,Female,Tier 1,Silver,9,Credit Card,8,211.46,5,0
+CUST-10478,38,Female,Tier 3,Silver,51,Credit Card,13,189.73,3,0
+CUST-10479,26,Female,Tier 3,Silver,5,Credit Card,,176.45,1,1
+CUST-10480,35,Female,Tier 1,Bronze,12,Cash on Delivery,4,167.78,3,0
+CUST-10481,40,Female,Tier 3,Silver,1,Credit Card,1,57.52,4,1
+CUST-10482,40,Male,Tier 2,Bronze,13,UPI,1,189.75,4,1
+CUST-10483,42,Female,Tier 2,Platinum,1,E-Wallet,3,164.58,3,1
+CUST-10484,39,Female,Tier 1,Silver,44,UPI,4,142.53,5,0
+CUST-10485,31,Female,Tier 1,Silver,17,Credit Card,5,223.96,2,0
+CUST-10486,31,Male,Tier 2,Bronze,21,UPI,5,126.13,5,0
+CUST-10487,25,Male,Tier 2,Bronze,17,UPI,9,191.12,4,0
+CUST-10488,54,Female,Tier 1,Bronze,12,UPI,11,183.02,4,0
+CUST-10489,37,Female,Tier 2,Silver,,UPI,5,234.03,4,0
+CUST-10490,34,Male,Tier 2,Bronze,27,Cash on Delivery,5,189.97,3,0
+CUST-10491,27,Female,Tier 1,Silver,43,UPI,8,235.78,4,0
+CUST-10492,66,Male,Tier 2,Gold,9,Debit Card,8,225.03,4,0
+CUST-10493,26,Male,Tier 1,Gold,37,UPI,9,245.21,3,0
+CUST-10494,32,Male,Tier 2,Silver,12,Credit Card,9,230.34,4,0
+CUST-10495,41,Male,Tier 2,Bronze,10,E-Wallet,3,164.13,2,1
+CUST-10496,43,Female,Tier 3,Gold,8,Credit Card,4,171.23,3,0
+CUST-10497,46,Male,Tier 1,Gold,3,Debit Card,6,173.74,2,1
+CUST-10498,55,Female,Tier 1,Bronze,0,E-Wallet,5,178.6,2,1
+CUST-10499,42,Female,Tier 1,Gold,3,UPI,1,140.21,3,1
+CUST-10500,26,Female,Tier 1,Bronze,9,Debit Card,9,231.32,5,0
+CUST-10501,34,Female,Tier 1,Gold,6,Debit Card,4,123.67,3,1
+CUST-10502,40,Male,Tier 3,Platinum,8,E-Wallet,6,151.65,4,0
+CUST-10503,57,Female,Tier 1,Bronze,55,Debit Card,10,272.49,2,0
+CUST-10504,23,Female,Tier 1,Gold,6,E-Wallet,1,122.79,3,1
+CUST-10505,49,Male,Tier 2,Silver,8,Credit Card,9,245.54,,1
+CUST-10506,38,Female,Tier 1,Platinum,2,UPI,1,99.24,2,1
+CUST-10507,45,Female,Tier 2,Silver,0,E-Wallet,2,99.81,4,1
+CUST-10508,35,Female,Tier 1,Gold,20,Credit Card,9,202.69,4,0
+CUST-10509,28,Female,Tier 2,Bronze,11,Debit Card,9,221.32,2,0
+CUST-10510,44,Female,Tier 1,Bronze,20,Credit Card,9,208.05,3,0
+CUST-10511,43,Male,Tier 1,Bronze,2,UPI,4,206.82,5,0
+CUST-10512,46,Female,Tier 3,Platinum,11,Debit Card,5,185.39,2,0
+CUST-10513,36,Female,Tier 1,Gold,4,UPI,1,187.47,1,1
+CUST-10514,31,Male,Tier 2,Gold,3,Credit Card,4,180.13,4,0
+CUST-10515,21,Male,Tier 1,Platinum,0,Credit Card,8,143.62,1,1
+CUST-10516,45,Male,Tier 1,Bronze,1,Credit Card,3,187.68,5,0
+CUST-10517,41,Female,Tier 3,Bronze,5,Debit Card,8,170.71,4,0
+CUST-10518,27,Female,Tier 1,Bronze,1,UPI,3,162.92,3,1
+CUST-10519,31,Male,Tier 2,Bronze,59,E-Wallet,10,216.76,3,0
+CUST-10520,32,Female,Tier 3,Bronze,5,UPI,1,196.28,4,1
+CUST-10521,22,Male,Tier 2,Silver,1,Debit Card,1,175.19,1,1
+CUST-10522,28,Female,Tier 3,Bronze,3,Cash on Delivery,6,169.75,5,0
+CUST-10523,25,Female,Tier 1,Bronze,12,UPI,10,236.18,4,0
+CUST-10524,32,Female,Tier 1,Bronze,0,Cash on Delivery,3,163.34,2,1
+CUST-10525,29,Male,Tier 1,Bronze,27,Debit Card,10,265.9,4,0
+CUST-10526,20,Male,Tier 2,Platinum,45,Credit Card,10,240.87,2,0
+CUST-10527,57,Male,Tier 3,Gold,3,Credit Card,8,185.25,1,1
+CUST-10528,49,Male,Tier 1,Platinum,8,UPI,3,134.47,4,0
+CUST-10529,29,Female,Tier 2,Silver,0,Credit Card,5,179.87,4,1
+CUST-10530,39,Female,Tier 1,Bronze,14,Credit Card,4,,4,0
+CUST-10531,41,Female,Tier 2,Gold,7,Debit Card,5,192.84,2,1
+CUST-10532,48,Female,Tier 2,Bronze,4,UPI,4,144.8,4,1
+CUST-10533,28,Female,Tier 3,Bronze,3,UPI,2,163.45,1,1
+CUST-10534,47,Female,Tier 2,Bronze,14,Credit Card,4,156.39,4,0
+CUST-10535,31,Female,Tier 1,Bronze,7,Debit Card,5,206.71,4,0
+CUST-10536,23,Female,Tier 1,Bronze,2,UPI,5,255.81,4,0
+CUST-10537,44,Male,Tier 1,Bronze,16,Cash on Delivery,8,205.24,5,0
+CUST-10538,49,Male,Tier 1,Silver,11,UPI,7,228.05,5,0
+CUST-10539,62,Male,Tier 1,Bronze,27,Cash on Delivery,10,217.64,5,0
+CUST-10540,25,Female,Tier 3,Bronze,1,UPI,6,188.63,5,0
+CUST-10541,43,Female,Tier 2,Gold,21,UPI,6,192.89,4,0
+CUST-10542,32,Male,Tier 2,Bronze,15,Credit Card,8,210.19,5,0
+CUST-10543,44,Female,Tier 1,Bronze,1,UPI,2,217.89,5,0
+CUST-10544,22,Female,Tier 3,Gold,16,UPI,10,230.8,4,0
+CUST-10545,24,Male,Tier 2,Bronze,8,UPI,7,221.61,1,1
+CUST-10546,29,Male,Tier 1,Bronze,40,Debit Card,11,194.1,1,0
+CUST-10547,37,Female,Tier 2,Silver,2,Debit Card,5,192.96,4,0
+CUST-10548,30,Female,Tier 2,Bronze,14,Debit Card,10,274.26,3,0
+CUST-10549,43,Female,Tier 1,Silver,6,Debit Card,4,152.17,4,0
+CUST-10550,47,Female,Tier 2,Gold,43,Credit Card,14,212.69,3,0
+CUST-10551,42,Female,Tier 2,Bronze,5,E-Wallet,4,166.84,3,1
+CUST-10552,53,Female,Tier 1,Silver,45,Credit Card,11,252.52,4,0
+CUST-10553,41,Female,Tier 3,Silver,32,Credit Card,8,237.72,5,0
+CUST-10554,24,Female,Tier 3,Bronze,4,Debit Card,2,204.33,1,1
+CUST-10555,50,Male,Tier 2,Silver,22,UPI,6,180.6,5,0
+CUST-10556,30,Male,Tier 2,Bronze,60,Debit Card,16,286.31,4,0
+CUST-10557,46,Male,Tier 1,Silver,4,Credit Card,1,96.99,3,1
+CUST-10558,52,Female,Tier 2,Bronze,8,UPI,5,185.94,3,1
+CUST-10559,41,Female,Tier 2,Silver,10,Debit Card,3,170.38,1,1
+CUST-10560,22,Female,Tier 1,Bronze,4,Cash on Delivery,3,139.63,1,1
+CUST-10561,27,Male,Tier 2,Gold,0,Cash on Delivery,5,203.36,3,1
+CUST-10562,50,Male,Tier 3,Bronze,3,Debit Card,2,157.96,1,1
+CUST-10563,35,Male,Tier 2,Silver,4,Debit Card,2,145.3,2,1
+CUST-10564,37,Male,Tier 1,Silver,8,UPI,8,188.93,4,0
+CUST-10565,44,Female,Tier 2,Gold,2,Credit Card,11,237.54,4,0
+CUST-10566,43,Male,Tier 1,Silver,28,Debit Card,4,95.11,4,0
+CUST-10567,39,Male,Tier 1,Silver,17,Debit Card,3,163.07,2,1
+CUST-10568,34,Female,Tier 1,Gold,1,Cash on Delivery,9,228.79,4,0
+CUST-10569,33,Male,Tier 1,Gold,14,Credit Card,9,233.65,5,0
+CUST-10570,45,Male,Tier 2,Bronze,14,UPI,4,183.13,3,1
+CUST-10571,42,Female,Tier 2,Silver,43,UPI,14,,5,0
+CUST-10572,34,Male,Tier 1,Gold,0,Debit Card,5,176.69,4,0
+CUST-10573,47,Female,Tier 3,Platinum,3,Credit Card,8,217.46,4,0
+CUST-10574,35,Female,Tier 3,Gold,36,Cash on Delivery,11,209.87,4,0
+CUST-10575,28,Female,Tier 3,Bronze,37,Debit Card,17,306.49,1,0
+CUST-10576,29,Male,Tier 1,Bronze,17,UPI,4,169.51,2,0
+CUST-10577,27,Female,Tier 2,Silver,20,Credit Card,7,181.92,1,0
+CUST-10578,34,Male,Tier 3,Gold,1,Debit Card,3,181.8,1,1
+CUST-10579,49,Male,Tier 2,Silver,10,Debit Card,4,148.24,2,1
+CUST-10580,28,Male,Tier 1,Silver,3,Credit Card,7,210.49,5,0
+CUST-10581,38,Female,Tier 1,Gold,2,Credit Card,3,159.5,2,1
+CUST-10582,30,Male,Tier 2,Bronze,23,E-Wallet,7,226.39,5,0
+CUST-10583,34,Male,Tier 3,Gold,2,Credit Card,2,,4,0
+CUST-10584,21,Female,Tier 2,Silver,8,Credit Card,5,200.82,2,1
+CUST-10585,34,Male,Tier 2,Bronze,39,Debit Card,12,200.82,3,0
+CUST-10586,35,Male,Tier 1,Silver,2,UPI,3,191.82,2,1
+CUST-10587,42,Male,Tier 2,Gold,53,Credit Card,18,381.82,5,0
+CUST-10588,39,Male,Tier 3,Bronze,60,UPI,22,369.54,4,0
+CUST-10589,25,Male,Tier 1,Bronze,11,Credit Card,3,,1,1
+CUST-10590,47,Male,Tier 2,Platinum,2,Credit Card,5,,5,0
+CUST-10591,39,Female,Tier 3,Bronze,5,Credit Card,1,73.55,4,1
+CUST-10592,38,Male,Tier 1,Silver,7,E-Wallet,2,121.84,1,1
+CUST-10593,36,Male,Tier 2,Silver,5,Credit Card,3,139.8,4,0
+CUST-10594,31,Female,Tier 1,Silver,4,Credit Card,,157.35,4,0
+CUST-10595,39,Male,Tier 2,Silver,50,Debit Card,5,151.23,2,0
+CUST-10596,41,Female,Tier 2,Bronze,2,E-Wallet,5,158,4,1
+CUST-10597,19,Male,Tier 2,Silver,18,Credit Card,7,203.67,1,0
+CUST-10598,31,Male,Tier 2,Bronze,0,Debit Card,1,108.89,3,1
+CUST-10599,34,Male,Tier 1,Silver,12,Credit Card,9,244.31,1,1
+CUST-10600,39,Male,Tier 3,Bronze,34,Debit Card,7,224.45,5,0
+CUST-10601,48,Male,Tier 2,Silver,4,UPI,7,275.41,4,0
+CUST-10602,29,Male,Tier 1,Bronze,2,UPI,5,213.77,2,1
+CUST-10603,32,Male,Tier 2,Bronze,14,Debit Card,10,247.29,3,0
+CUST-10604,31,Male,Tier 2,Bronze,17,Credit Card,4,149.39,2,1
+CUST-10605,28,Male,Tier 1,Bronze,16,Credit Card,6,200.81,4,0
+CUST-10606,33,Male,Tier 3,Gold,5,Debit Card,4,177.8,1,1
+CUST-10607,44,Male,Tier 3,Bronze,4,Credit Card,6,176.6,4,1
+CUST-10608,26,Male,Tier 1,Platinum,43,UPI,14,311.51,5,0
+CUST-10609,41,Female,Tier 3,Platinum,35,Cash on Delivery,6,150.06,4,0
+CUST-10610,19,Male,Tier 1,Silver,8,Cash on Delivery,7,196.67,2,1
+CUST-10611,31,Female,Tier 1,Bronze,26,E-Wallet,11,268.68,3,0
+CUST-10612,33,Female,Tier 1,Bronze,8,UPI,5,171.37,3,1
+CUST-10613,53,Male,Tier 3,Gold,7,UPI,6,185.8,4,0
+CUST-10614,34,Female,Tier 2,Bronze,2,Credit Card,1,127.87,4,0
+CUST-10615,18,Female,Tier 1,Bronze,7,UPI,5,154.93,4,0
+CUST-10616,18,Male,Tier 1,Silver,10,Debit Card,10,275.22,3,0
+CUST-10617,37,Male,Tier 2,Gold,0,Debit Card,4,137.46,5,1
+CUST-10618,43,Female,Tier 1,Gold,8,UPI,7,213.54,1,1
+CUST-10619,40,Female,Tier 3,Bronze,21,Credit Card,6,204.41,3,0
+CUST-10620,38,Male,Tier 3,Silver,15,Credit Card,9,199.54,4,0
+CUST-10621,48,Male,Tier 2,Bronze,14,Cash on Delivery,5,182.19,1,1
+CUST-10622,31,Male,Tier 3,Bronze,33,Credit Card,9,200.71,4,0
+CUST-10623,45,Male,Tier 1,Gold,0,Debit Card,5,221.73,4,1
+CUST-10624,20,Female,Tier 3,Bronze,11,E-Wallet,8,181.84,4,0
+CUST-10625,27,Male,Tier 2,Bronze,21,UPI,8,196.38,1,1
+CUST-10626,18,Male,Tier 2,Bronze,10,UPI,6,155.27,2,1
+CUST-10627,34,Female,Tier 1,Gold,5,Credit Card,2,103.27,3,0
+CUST-10628,36,Male,Tier 3,Gold,2,Debit Card,3,203.74,2,1
+CUST-10629,38,Male,Tier 1,Silver,30,E-Wallet,4,184.28,5,0
+CUST-10630,37,Female,Tier 1,Gold,8,UPI,8,220.21,4,0
+CUST-10631,27,Female,Tier 1,Bronze,29,Debit Card,4,148.3,2,0
+CUST-10632,35,Male,Tier 2,Silver,12,Credit Card,9,255.23,5,0
+CUST-10633,22,Female,Tier 2,Bronze,15,Credit Card,,,4,1
+CUST-10634,50,Male,Tier 2,Bronze,22,Cash on Delivery,13,299.81,2,0
+CUST-10635,33,Male,Tier 3,Silver,15,Debit Card,9,201.82,3,0
+CUST-10636,32,Female,Tier 1,Platinum,7,UPI,4,148.66,2,1
+CUST-10637,52,Male,Tier 2,Bronze,10,Credit Card,8,238.75,5,0
+CUST-10638,24,Male,Tier 1,Bronze,22,UPI,5,205.91,3,0
+CUST-10639,25,Male,Tier 3,Bronze,6,Cash on Delivery,4,185.92,5,1
+CUST-10640,26,Male,Tier 3,Bronze,6,UPI,6,160.51,3,0
+CUST-10641,36,Male,Tier 2,Platinum,1,Credit Card,4,154.6,5,0
+CUST-10642,41,Male,Tier 2,Silver,34,UPI,9,232.71,1,0
+CUST-10643,44,Male,Tier 1,Silver,1,UPI,5,154.52,5,0
+CUST-10644,62,Male,Tier 2,Gold,14,Debit Card,8,257.13,5,0
+CUST-10645,18,Female,Tier 3,Bronze,7,E-Wallet,3,83.94,3,1
+CUST-10646,43,Female,Tier 2,Silver,7,UPI,6,168.64,4,0
+CUST-10647,31,Female,Tier 1,Silver,15,E-Wallet,8,200.71,4,0
+CUST-10648,31,Female,Tier 2,Silver,0,UPI,3,70.68,5,0
+CUST-10649,30,Male,Tier 3,Platinum,12,Credit Card,7,162.11,3,0
+CUST-10650,27,Male,Tier 1,Gold,20,Credit Card,7,222.76,3,0
+CUST-10651,53,Female,Tier 1,Bronze,24,Credit Card,7,204.91,5,0
+CUST-10652,45,Female,Tier 2,Gold,2,E-Wallet,4,215.19,4,1
+CUST-10653,37,Female,Tier 3,Bronze,31,UPI,10,286.36,3,0
+CUST-10654,50,Male,Tier 1,Bronze,14,UPI,4,180.99,4,0
+CUST-10655,21,Male,Tier 1,Bronze,29,Credit Card,6,201.4,1,0
+CUST-10656,23,Male,Tier 1,Bronze,9,Credit Card,3,,4,0
+CUST-10657,18,Male,Tier 1,Silver,10,UPI,5,100.35,2,1
+CUST-10658,30,Female,Tier 2,Silver,35,Debit Card,9,186.16,2,0
+CUST-10659,38,Female,Tier 2,Platinum,32,Credit Card,4,171.02,3,0
+CUST-10660,38,Male,Tier 2,Silver,8,UPI,7,222.48,3,0
+CUST-10661,38,Female,Tier 2,Silver,4,Credit Card,4,176.69,3,1
+CUST-10662,22,Female,Tier 1,Bronze,6,Debit Card,10,213.23,3,0
+CUST-10663,45,Male,Tier 3,Bronze,6,Debit Card,8,244.12,3,1
+CUST-10664,39,Male,Tier 2,Silver,4,Credit Card,5,224.47,2,1
+CUST-10665,44,Male,Tier 3,Silver,4,Cash on Delivery,3,184.14,4,1
+CUST-10666,18,Male,Tier 2,Gold,27,Credit Card,8,245.69,3,0
+CUST-10667,40,Male,Tier 1,Bronze,1,Credit Card,3,139.22,3,1
+CUST-10668,25,Male,Tier 2,Bronze,15,Credit Card,10,272.28,4,0
+CUST-10669,33,Male,Tier 1,Silver,2,UPI,4,172.37,5,0
+CUST-10670,42,Male,Tier 2,Bronze,5,Debit Card,3,171.35,4,0
+CUST-10671,37,Female,Tier 1,Bronze,0,UPI,3,166.96,1,1
+CUST-10672,28,Male,Tier 1,Gold,4,Credit Card,6,188.36,4,0
+CUST-10673,37,Female,Tier 3,Bronze,20,Credit Card,7,178.2,5,0
+CUST-10674,21,Male,Tier 1,Silver,30,Debit Card,8,213.54,3,0
+CUST-10675,48,Female,Tier 3,Bronze,3,E-Wallet,6,221.6,5,0
+CUST-10676,34,Male,Tier 1,Bronze,8,E-Wallet,7,190.76,3,1
+CUST-10677,48,Male,Tier 2,Bronze,8,Credit Card,5,206.8,3,1
+CUST-10678,31,Female,Tier 2,Gold,28,Debit Card,8,238.11,3,0
+CUST-10679,31,Female,Tier 2,Bronze,20,E-Wallet,6,183.03,4,0
+CUST-10680,29,Female,Tier 1,Gold,10,Debit Card,5,221.66,2,1
+CUST-10681,45,Male,Tier 1,Bronze,15,E-Wallet,14,277.33,1,1
+CUST-10682,29,Male,Tier 1,Gold,26,Credit Card,7,249.29,1,0
+CUST-10683,43,Female,Tier 1,Bronze,0,Cash on Delivery,7,217.02,2,1
+CUST-10684,33,Female,Tier 2,Silver,7,UPI,5,179.52,3,0
+CUST-10685,18,Female,Tier 3,Silver,33,Cash on Delivery,7,177.37,4,0
+CUST-10686,31,Female,Tier 3,Platinum,18,UPI,6,189.35,2,0
+CUST-10687,25,Male,Tier 2,Bronze,10,Debit Card,4,161.89,5,0
+CUST-10688,37,Female,Tier 2,Bronze,10,Cash on Delivery,4,130.25,2,1
+CUST-10689,25,Male,Tier 2,Bronze,5,Credit Card,5,173.47,3,1
+CUST-10690,46,Male,Tier 1,Gold,10,Debit Card,7,179.89,1,1
+CUST-10691,36,Male,Tier 3,Silver,14,UPI,5,197.58,2,0
+CUST-10692,35,Male,Tier 2,Gold,7,UPI,4,207.19,1,1
+CUST-10693,43,Male,Tier 2,Bronze,17,Cash on Delivery,6,155.19,4,0
+CUST-10694,46,Male,Tier 1,Bronze,27,Credit Card,13,327.37,4,0
+CUST-10695,36,Female,Tier 1,Bronze,2,UPI,2,140.14,2,1
+CUST-10696,29,Male,Tier 2,Platinum,8,UPI,6,162.75,3,0
+CUST-10697,19,Female,Tier 3,Silver,,Credit Card,3,178.73,1,1
+CUST-10698,30,Male,Tier 2,Platinum,16,Debit Card,10,226.61,4,0
+CUST-10699,30,Male,Tier 1,Bronze,4,Credit Card,7,201.55,,0
+CUST-10700,38,Female,Tier 3,Silver,14,Credit Card,11,239.87,1,0
+CUST-10701,33,Male,Tier 1,Silver,,Cash on Delivery,5,155.5,3,0
+CUST-10702,43,Male,Tier 1,Bronze,7,UPI,1,153.72,5,1
+CUST-10703,30,Male,Tier 1,Gold,33,UPI,12,255.41,3,0
+CUST-10704,36,Male,Tier 2,Platinum,60,Cash on Delivery,11,208.9,3,0
+CUST-10705,48,Female,Tier 3,Gold,1,Debit Card,3,172.53,3,1
+CUST-10706,40,Male,Tier 1,Gold,3,E-Wallet,9,191.83,4,0
+CUST-10707,36,Female,Tier 3,Bronze,42,Debit Card,10,205.4,5,0
+CUST-10708,30,Male,Tier 1,Bronze,44,E-Wallet,10,275.78,5,0
+CUST-10709,30,Female,Tier 3,Platinum,1,Credit Card,3,120.11,4,1
+CUST-10710,28,Female,Tier 2,Bronze,,Cash on Delivery,9,158.51,3,1
+CUST-10711,31,Female,Tier 3,Gold,2,Credit Card,3,174.69,3,1
+CUST-10712,44,Male,Tier 1,Gold,60,Debit Card,10,230.88,3,0
+CUST-10713,34,Male,Tier 3,Silver,2,UPI,5,173.47,5,0
+CUST-10714,23,Male,Tier 2,Platinum,9,Debit Card,2,134.56,4,0
+CUST-10715,54,Female,Tier 1,Bronze,26,UPI,8,222.95,3,0
+CUST-10716,40,Female,Tier 3,Bronze,0,Debit Card,2,121.42,1,1
+CUST-10717,22,Female,Tier 1,Bronze,12,UPI,12,308.28,3,0
+CUST-10718,32,Male,Tier 3,Silver,4,Credit Card,2,99.71,5,0
+CUST-10719,38,Female,Tier 1,Bronze,27,Credit Card,9,241.35,3,0
+CUST-10720,54,Female,Tier 2,Bronze,4,Credit Card,1,151.26,2,1
+CUST-10721,25,Male,Tier 2,Gold,16,Debit Card,9,205.21,1,0
+CUST-10722,46,Male,Tier 1,Platinum,15,Credit Card,3,125.29,3,0
+CUST-10723,50,Female,Tier 1,Bronze,3,Debit Card,2,174.52,5,1
+CUST-10724,30,Female,Tier 1,Bronze,0,Debit Card,2,114.27,5,1
+CUST-10725,34,Female,Tier 2,Platinum,7,Credit Card,8,197.8,5,0
+CUST-10726,26,Male,Tier 1,Bronze,4,UPI,10,266.62,4,1
+CUST-10727,34,Female,Tier 2,Bronze,23,E-Wallet,7,205.04,4,0
+CUST-10728,36,Male,Tier 1,Bronze,22,Credit Card,8,162.09,4,0
+CUST-10729,43,Male,Tier 1,Silver,8,UPI,2,196.41,3,1
+CUST-10730,47,Male,Tier 2,Bronze,13,UPI,13,260.1,4,0
+CUST-10731,29,Female,Tier 1,Platinum,12,Debit Card,6,179.92,3,0
+CUST-10732,18,Female,Tier 3,Silver,24,UPI,6,199.67,4,0
+CUST-10733,36,Female,Tier 3,Silver,7,Debit Card,4,186.75,2,1
+CUST-10734,39,Male,Tier 2,Bronze,4,Debit Card,5,238.83,2,1
+CUST-10735,39,Female,Tier 2,Silver,4,Credit Card,1,82.2,4,1
+CUST-10736,33,Male,Tier 3,Silver,10,UPI,6,216.78,5,0
+CUST-10737,38,Female,Tier 1,Gold,8,UPI,9,250.29,3,0
+CUST-10738,52,Male,Tier 1,Gold,8,Credit Card,5,175.89,1,1
+CUST-10739,40,Male,Tier 1,Silver,1,Debit Card,5,203.62,5,0
+CUST-10740,33,Male,Tier 2,Platinum,17,Cash on Delivery,3,184.03,4,0
+CUST-10741,31,Male,Tier 1,Gold,3,Debit Card,4,126.54,3,0
+CUST-10742,35,Female,Tier 2,Gold,,Debit Card,2,196.49,4,0
+CUST-10743,53,Male,Tier 3,Bronze,7,E-Wallet,7,157.24,3,1
+CUST-10744,35,Male,Tier 3,Bronze,3,UPI,3,121.94,3,1
+CUST-10745,36,Female,Tier 2,Bronze,12,UPI,7,196.15,5,0
+CUST-10746,32,Male,Tier 1,Silver,6,UPI,3,213.75,2,1
+CUST-10747,47,Female,Tier 3,Silver,8,E-Wallet,10,230.75,1,1
+CUST-10748,56,Female,Tier 2,Silver,10,Debit Card,3,155.04,1,1
+CUST-10749,41,Female,Tier 1,Gold,3,Debit Card,4,210.96,3,1
+CUST-10750,37,Male,Tier 1,Gold,2,Debit Card,1,122.99,2,1
+CUST-10751,37,Female,Tier 3,Platinum,29,Cash on Delivery,9,192.65,2,0
+CUST-10752,18,Female,Tier 2,Bronze,7,UPI,1,119.48,1,1
+CUST-10753,44,Male,Tier 3,Silver,7,Credit Card,3,197.12,2,1
+CUST-10754,38,Male,Tier 3,Bronze,0,E-Wallet,7,206.13,3,1
+CUST-10755,41,Female,Tier 2,Bronze,9,Debit Card,5,237.92,1,1
+CUST-10756,29,Female,Tier 2,Bronze,11,Credit Card,9,250.14,4,0
+CUST-10757,33,Female,Tier 1,Bronze,11,UPI,5,160.66,4,0
+CUST-10758,32,Female,Tier 1,Silver,17,Debit Card,7,205.53,1,0
+CUST-10759,47,Female,Tier 1,Gold,2,E-Wallet,3,130.4,4,1
+CUST-10760,33,Male,Tier 2,Bronze,4,Credit Card,4,147.95,5,0
+CUST-10761,57,Male,Tier 2,Gold,23,E-Wallet,11,386.37,5,0
+CUST-10762,41,Male,Tier 3,Silver,41,UPI,8,246.56,1,0
+CUST-10763,24,Female,Tier 1,Bronze,2,Credit Card,3,181.83,4,0
+CUST-10764,35,Male,Tier 2,Silver,9,Cash on Delivery,4,149.3,3,0
+CUST-10765,30,Female,Tier 2,Bronze,3,Debit Card,3,203.09,1,1
+CUST-10766,18,Female,Tier 2,Silver,0,Credit Card,2,176.98,2,1
+CUST-10767,52,Female,Tier 2,Silver,5,Debit Card,6,248.45,3,1
+CUST-10768,44,Male,Tier 1,Bronze,2,E-Wallet,2,198.99,3,1
+CUST-10769,42,Female,Tier 2,Bronze,17,Credit Card,5,135.63,4,0
+CUST-10770,38,Male,Tier 1,Silver,10,Credit Card,4,134.7,4,0
+CUST-10771,23,Female,Tier 1,Platinum,2,Credit Card,2,113.89,2,1
+CUST-10772,32,Male,Tier 2,Bronze,0,Credit Card,6,163.68,3,1
+CUST-10773,45,Male,Tier 2,Gold,23,UPI,5,189.7,3,0
+CUST-10774,26,Female,Tier 3,Silver,2,Debit Card,3,139,3,1
+CUST-10775,18,Male,Tier 2,Platinum,13,Credit Card,4,230.18,5,0
+CUST-10776,34,Male,Tier 2,Gold,5,Credit Card,8,273.14,4,0
+CUST-10777,35,Female,Tier 2,Silver,12,Debit Card,14,287.81,5,0
+CUST-10778,38,Female,Tier 2,Silver,5,Cash on Delivery,8,274.66,4,0
+CUST-10779,44,Female,Tier 1,Gold,1,Debit Card,1,176.64,3,1
+CUST-10780,43,Female,Tier 1,Bronze,3,Cash on Delivery,6,178.48,3,1
+CUST-10781,39,Female,Tier 1,Bronze,2,Debit Card,2,83.72,3,1
+CUST-10782,48,Male,Tier 2,Bronze,7,Credit Card,4,161.46,3,1
+CUST-10783,21,Male,Tier 1,Gold,15,E-Wallet,7,184.66,4,0
+CUST-10784,42,Male,Tier 1,Gold,4,Debit Card,9,234.2,3,0
+CUST-10785,43,Female,Tier 1,Bronze,0,UPI,3,158.68,2,1
+CUST-10786,24,Female,Tier 3,Silver,10,Cash on Delivery,4,169.89,4,0
+CUST-10787,21,Male,Tier 1,Silver,13,Credit Card,9,243.71,5,0
+CUST-10788,29,Male,Tier 2,Bronze,46,Credit Card,15,263.62,3,0
+CUST-10789,30,Female,Tier 1,Platinum,12,UPI,9,240.34,4,0
+CUST-10790,44,Male,Tier 2,Bronze,8,Credit Card,4,154.81,1,1
+CUST-10791,30,Female,Tier 1,Bronze,11,Credit Card,5,186,3,1
+CUST-10792,28,Male,Tier 1,Silver,36,Credit Card,11,280.72,1,0
+CUST-10793,30,Female,Tier 2,Gold,24,Credit Card,10,203.27,1,0
+CUST-10794,48,Male,Tier 1,Bronze,5,UPI,1,123.56,4,1
+CUST-10795,37,Female,Tier 1,Silver,3,Credit Card,3,152.44,3,0
+CUST-10796,35,Female,Tier 1,Silver,4,Debit Card,5,164.57,4,0
+CUST-10797,35,Female,Tier 1,Bronze,9,UPI,5,206.99,5,0
+CUST-10798,49,Female,Tier 1,Bronze,19,Debit Card,5,158.39,2,0
+CUST-10799,29,Female,Tier 1,Silver,,Credit Card,8,199.34,4,0
+CUST-10800,50,Female,Tier 3,Bronze,0,UPI,3,134.7,3,1
+CUST-10801,39,Male,Tier 2,Platinum,18,Credit Card,11,284.76,1,0
+CUST-10802,35,Female,Tier 2,Gold,22,UPI,7,189.23,4,0
+CUST-10803,62,Female,Tier 1,Platinum,4,E-Wallet,5,193.8,4,0
+CUST-10804,26,Male,Tier 3,Bronze,15,Debit Card,7,263.27,3,0
+CUST-10805,33,Female,Tier 1,Platinum,7,Debit Card,7,201.76,5,0
+CUST-10806,24,Female,Tier 1,Silver,30,Debit Card,10,273.36,3,0
+CUST-10807,46,Female,Tier 2,Bronze,26,Debit Card,10,290.14,5,0
+CUST-10808,53,Male,Tier 1,Bronze,10,E-Wallet,7,234.82,3,1
+CUST-10809,53,Male,Tier 1,Bronze,16,E-Wallet,12,263.5,1,0
+CUST-10810,49,Female,Tier 2,Silver,30,Debit Card,16,,3,0
+CUST-10811,35,Female,Tier 3,Silver,9,UPI,7,165.38,2,1
+CUST-10812,33,Male,Tier 2,Bronze,5,Cash on Delivery,5,156.6,4,1
+CUST-10813,20,Female,Tier 2,Silver,19,Cash on Delivery,11,233.86,4,0
+CUST-10814,57,Female,Tier 3,Bronze,3,Debit Card,6,259.22,3,1
+CUST-10815,41,Male,Tier 1,Silver,6,Debit Card,9,203.62,1,1
+CUST-10816,32,Female,Tier 1,Bronze,28,Credit Card,9,203.18,3,0
+CUST-10817,50,Male,Tier 1,Gold,18,Cash on Delivery,4,136.68,1,1
+CUST-10818,27,Male,Tier 1,Gold,7,Credit Card,3,172.79,4,0
+CUST-10819,41,Male,Tier 1,Silver,3,UPI,3,160.28,4,1
+CUST-10820,35,Female,Tier 3,Bronze,6,Credit Card,8,248.6,5,0
+CUST-10821,43,Male,Tier 2,Bronze,4,Credit Card,3,176.14,2,1
+CUST-10822,36,Male,Tier 2,Gold,2,Debit Card,2,102.59,3,1
+CUST-10823,22,Male,Tier 1,Bronze,19,Cash on Delivery,7,179.78,4,0
+CUST-10824,37,Female,Tier 3,Bronze,4,Credit Card,3,196.96,5,1
+CUST-10825,47,Female,Tier 3,Bronze,8,UPI,5,173.9,4,1
+CUST-10826,36,Male,Tier 3,Silver,6,Credit Card,3,191.63,2,1
+CUST-10827,44,Male,Tier 1,Silver,56,Credit Card,19,,3,0
+CUST-10828,26,Female,Tier 2,Gold,6,Debit Card,6,162.97,4,1
+CUST-10829,36,Male,Tier 1,Bronze,1,Debit Card,2,134.9,4,1
+CUST-10830,30,Male,Tier 1,Bronze,1,Credit Card,4,138.96,5,0
+CUST-10831,44,Male,Tier 1,Gold,12,Credit Card,7,187.03,2,0
+CUST-10832,37,Male,Tier 2,Gold,12,Credit Card,7,210.03,5,0
+CUST-10833,43,Male,Tier 2,Bronze,,Credit Card,4,183.35,1,1
+CUST-10834,47,Male,Tier 1,Silver,7,Cash on Delivery,3,108.29,5,1
+CUST-10835,43,Male,Tier 1,Bronze,0,Cash on Delivery,3,155.48,5,1
+CUST-10836,39,Female,Tier 2,Platinum,10,Debit Card,7,186.4,4,0
+CUST-10837,27,Male,Tier 1,Bronze,9,UPI,10,220.55,4,0
+CUST-10838,36,Female,Tier 1,Platinum,2,E-Wallet,6,195.98,1,1
+CUST-10839,31,Female,Tier 1,Silver,1,Credit Card,5,163.49,1,1
+CUST-10840,33,Male,Tier 2,Silver,1,E-Wallet,2,185.46,1,1
+CUST-10841,33,Female,Tier 1,Bronze,1,Cash on Delivery,6,227.64,1,1
+CUST-10842,27,Male,Tier 1,Silver,13,Credit Card,6,227.45,3,0
+CUST-10843,18,Female,Tier 1,Silver,3,Credit Card,2,129.15,2,1
+CUST-10844,30,Male,Tier 3,Bronze,4,Cash on Delivery,3,127.13,5,1
+CUST-10845,38,Male,Tier 2,Silver,2,Debit Card,8,218.46,3,0
+CUST-10846,23,Male,Tier 2,Platinum,44,Credit Card,11,247.49,4,0
+CUST-10847,37,Female,Tier 1,Silver,26,Credit Card,9,209.74,,0
+CUST-10848,56,Male,Tier 2,Gold,3,Debit Card,7,168.73,3,1
+CUST-10849,47,Female,Tier 1,Bronze,5,UPI,7,202.75,2,1
+CUST-10850,53,Male,Tier 2,Silver,3,UPI,4,155.88,3,1
+CUST-10851,40,Female,Tier 3,Bronze,9,Cash on Delivery,4,188.65,,1
+CUST-10852,48,Male,Tier 2,Silver,0,Credit Card,3,175.95,4,0
+CUST-10853,29,Female,Tier 3,Platinum,15,Debit Card,6,225.02,2,0
+CUST-10854,30,Male,Tier 2,Silver,10,Debit Card,7,166.22,4,0
+CUST-10855,18,Male,Tier 1,Bronze,32,Debit Card,5,192.03,1,0
+CUST-10856,48,Male,Tier 3,Bronze,2,Credit Card,1,110.18,4,1
+CUST-10857,52,Male,Tier 1,Silver,22,Cash on Delivery,4,131.39,3,0
+CUST-10858,31,Female,Tier 2,Silver,21,E-Wallet,5,167.14,4,0
+CUST-10859,34,Male,Tier 1,Gold,1,Debit Card,5,212.06,5,0
+CUST-10860,29,Female,Tier 1,Gold,7,UPI,9,216.83,4,0
+CUST-10861,40,Male,Tier 1,Silver,2,Credit Card,4,214.96,3,0
+CUST-10862,48,Female,Tier 1,Bronze,4,UPI,3,172.47,2,1
+CUST-10863,19,Male,Tier 2,Bronze,4,UPI,7,192.18,4,0
+CUST-10864,41,Male,Tier 2,Bronze,11,Debit Card,3,190.8,3,1
+CUST-10865,34,Female,Tier 1,Bronze,7,Cash on Delivery,4,181.36,1,1
+CUST-10866,38,Male,Tier 1,Silver,,UPI,14,260.02,4,0
+CUST-10867,41,Male,Tier 2,Silver,1,Debit Card,9,283.76,2,1
+CUST-10868,35,Female,Tier 1,Silver,50,UPI,11,259.78,1,0
+CUST-10869,35,Female,Tier 2,Bronze,3,Credit Card,6,192.56,5,0
+CUST-10870,34,Male,Tier 2,Bronze,20,Debit Card,4,142.33,3,0
+CUST-10871,46,Male,Tier 3,Bronze,5,Debit Card,7,239.39,2,1
+CUST-10872,41,Female,Tier 2,Bronze,2,Debit Card,9,243.52,4,0
+CUST-10873,39,Male,Tier 1,Gold,27,UPI,7,222.88,5,0
+CUST-10874,24,Male,Tier 2,Bronze,5,Debit Card,3,140.77,1,1
+CUST-10875,33,Male,Tier 1,Silver,15,UPI,3,181.02,4,0
+CUST-10876,45,Female,Tier 1,Bronze,11,UPI,10,267.35,4,1
+CUST-10877,37,Female,Tier 2,Gold,8,Debit Card,6,171.94,2,0
+CUST-10878,43,Male,Tier 1,Silver,9,E-Wallet,7,161.49,3,1
+CUST-10879,54,Male,Tier 2,Bronze,18,Credit Card,4,185.44,1,1
+CUST-10880,47,Male,Tier 3,Silver,1,Credit Card,5,132.8,4,0
+CUST-10881,37,Female,Tier 3,Gold,15,Debit Card,7,208.56,4,0
+CUST-10882,31,Male,Tier 3,Platinum,31,Credit Card,5,166.58,1,0
+CUST-10883,18,Male,Tier 1,Bronze,0,Credit Card,2,180.56,4,1
+CUST-10884,35,Female,Tier 1,Gold,2,UPI,2,132.21,4,0
+CUST-10885,33,Male,Tier 2,Platinum,17,Debit Card,7,237.22,3,0
+CUST-10886,40,Female,Tier 1,Platinum,8,Debit Card,4,152.57,4,0
+CUST-10887,35,Male,Tier 2,Silver,7,Cash on Delivery,3,186,1,1
+CUST-10888,33,Male,Tier 2,Silver,2,UPI,4,229.81,5,0
+CUST-10889,19,Male,Tier 2,Silver,9,E-Wallet,7,171.96,4,0
+CUST-10890,27,Female,Tier 1,Gold,1,Credit Card,1,140.76,4,1
+CUST-10891,41,Female,Tier 1,Silver,9,UPI,5,262.46,4,0
+CUST-10892,54,Female,Tier 1,Silver,20,E-Wallet,6,194,4,0
+CUST-10893,36,Male,Tier 1,Silver,4,UPI,4,169.85,5,0
+CUST-10894,40,Female,Tier 3,Gold,9,UPI,4,191.65,4,0
+CUST-10895,46,Male,Tier 1,Gold,60,Debit Card,10,241.23,5,0
+CUST-10896,28,Male,Tier 1,Bronze,16,Credit Card,7,152.78,4,0
+CUST-10897,40,Female,Tier 1,Gold,25,Debit Card,,201.97,2,0
+CUST-10898,29,Male,Tier 2,Silver,7,Debit Card,11,191.91,5,0
+CUST-10899,45,Male,Tier 2,Gold,20,E-Wallet,9,215.5,4,0
+CUST-10900,38,Male,Tier 1,Silver,0,Credit Card,4,204.22,4,0
+CUST-10901,39,Male,Tier 1,Bronze,1,Cash on Delivery,1,121.3,5,1
+CUST-10902,29,Male,Tier 1,Platinum,3,Cash on Delivery,3,135.19,1,1
+CUST-10903,44,Female,Tier 1,Bronze,7,Credit Card,7,230.38,3,1
+CUST-10904,57,Male,Tier 2,Gold,26,Debit Card,4,142.47,2,0
+CUST-10905,26,Female,Tier 2,Silver,5,E-Wallet,6,155.33,4,0
+CUST-10906,33,Female,Tier 1,Silver,14,Cash on Delivery,6,200.24,4,0
+CUST-10907,39,Male,Tier 1,Bronze,17,Debit Card,,222.51,5,0
+CUST-10908,44,Male,Tier 3,Silver,12,Debit Card,4,130.69,3,0
+CUST-10909,31,Male,Tier 2,Bronze,6,Debit Card,4,187.11,4,1
+CUST-10910,18,Female,Tier 2,Bronze,12,UPI,5,193.93,,0
+CUST-10911,50,Male,Tier 1,Bronze,5,Credit Card,1,121.21,4,1
+CUST-10912,44,Female,Tier 2,Bronze,1,UPI,6,183.26,2,1
+CUST-10913,19,Male,Tier 1,Platinum,,Credit Card,8,230.11,4,0
+CUST-10914,30,Female,Tier 2,Platinum,1,Credit Card,3,191.71,5,0
+CUST-10915,52,Male,Tier 3,Bronze,1,Debit Card,5,171.52,5,1
+CUST-10916,51,Male,Tier 1,Gold,29,Debit Card,7,223.64,4,0
+CUST-10917,46,Female,Tier 1,Bronze,5,Credit Card,9,244.96,5,0
+CUST-10918,35,Female,Tier 1,Silver,14,Debit Card,5,206.38,2,0
+CUST-10919,37,Male,Tier 1,Gold,5,Debit Card,1,133.18,2,1
+CUST-10920,35,Female,Tier 1,Platinum,6,Credit Card,7,176.63,5,0
+CUST-10921,48,Male,Tier 1,Silver,4,Credit Card,14,274.13,2,0
+CUST-10922,28,Female,Tier 2,Gold,5,Cash on Delivery,7,214.29,2,1
+CUST-10923,28,Female,Tier 2,Bronze,7,Debit Card,3,210.55,3,1
+CUST-10924,47,Male,Tier 1,Platinum,17,Debit Card,7,189.48,4,0
+CUST-10925,36,Male,Tier 3,Bronze,10,UPI,2,168.14,4,0
+CUST-10926,50,Male,Tier 1,Silver,40,Cash on Delivery,8,206.16,2,0
+CUST-10927,30,Female,Tier 3,Silver,0,Credit Card,3,159.31,5,0
+CUST-10928,36,Female,Tier 1,Silver,9,UPI,7,249.46,5,0
+CUST-10929,27,Male,Tier 3,Bronze,12,UPI,6,214.93,3,0
+CUST-10930,37,Male,Tier 2,Platinum,35,UPI,5,142.76,3,0
+CUST-10931,22,Female,Tier 3,Bronze,0,Credit Card,6,174.83,4,0
+CUST-10932,32,Female,Tier 3,Silver,11,UPI,10,277.69,4,0
+CUST-10933,22,Female,Tier 1,Bronze,26,Credit Card,3,160.26,3,0
+CUST-10934,43,Male,Tier 3,Bronze,3,UPI,2,109.53,3,1
+CUST-10935,44,Male,Tier 1,Silver,29,UPI,10,215.43,3,0
+CUST-10936,19,Male,Tier 1,Silver,0,Credit Card,2,165.1,2,1
+CUST-10937,50,Female,Tier 1,Bronze,18,E-Wallet,9,257.83,3,0
+CUST-10938,61,Male,Tier 2,Bronze,37,Credit Card,9,228.54,4,0
+CUST-10939,37,Female,Tier 1,Silver,14,E-Wallet,8,290.26,4,0
+CUST-10940,30,Male,Tier 2,Gold,8,Debit Card,7,228.72,4,0
+CUST-10941,65,Female,Tier 2,Gold,0,Credit Card,4,,3,1
+CUST-10942,23,Female,Tier 2,Bronze,35,Credit Card,11,227.53,4,0
+CUST-10943,37,Female,Tier 3,Bronze,8,Cash on Delivery,6,162.75,1,1
+CUST-10944,38,Male,Tier 1,Bronze,0,Credit Card,1,142.06,3,1
+CUST-10945,50,Male,Tier 1,Bronze,16,Credit Card,7,189.34,4,0
+CUST-10946,40,Male,Tier 1,Silver,9,Debit Card,6,242.21,4,0
+CUST-10947,32,Female,Tier 1,Silver,1,UPI,2,187.99,3,1
+CUST-10948,27,Female,Tier 1,Bronze,3,UPI,5,198.99,4,0
+CUST-10949,33,Female,Tier 1,Bronze,0,Credit Card,6,156.63,5,0
+CUST-10950,26,Female,Tier 1,Bronze,11,Credit Card,4,147.83,4,0
+CUST-10951,37,Female,Tier 3,Gold,13,Credit Card,10,277.67,4,0
+CUST-10952,31,Male,Tier 2,Platinum,9,Credit Card,4,151.11,5,0
+CUST-10953,22,Female,Tier 1,Bronze,23,Debit Card,6,225.66,4,0
+CUST-10954,49,Male,Tier 2,Bronze,27,UPI,15,314.24,4,0
+CUST-10955,32,Male,Tier 1,Gold,13,Credit Card,2,145.55,1,1
+CUST-10956,24,Male,Tier 1,Platinum,0,Debit Card,2,122.92,3,1
+CUST-10957,35,Male,Tier 2,Silver,16,Debit Card,9,225.17,4,0
+CUST-10958,37,Male,Tier 2,Bronze,7,Cash on Delivery,,185.69,4,1
+CUST-10959,19,Female,Tier 1,Bronze,11,Cash on Delivery,5,210.98,3,1
+CUST-10960,40,Male,Tier 3,Silver,14,E-Wallet,5,153.43,5,0
+CUST-10961,26,Female,Tier 3,Bronze,6,Credit Card,4,160.12,2,1
+CUST-10962,54,Male,Tier 2,Bronze,34,Credit Card,13,277.34,4,0
+CUST-10963,42,Male,Tier 2,Silver,2,Credit Card,5,199.88,3,0
+CUST-10964,33,Male,Tier 2,Bronze,15,Credit Card,8,188.75,3,0
+CUST-10965,29,Male,Tier 1,Gold,0,Debit Card,2,104.5,4,1
+CUST-10966,35,Female,Tier 1,Bronze,36,UPI,7,224.22,2,0
+CUST-10967,43,Male,Tier 1,Bronze,1,E-Wallet,1,86.46,1,1
+CUST-10968,36,Female,Tier 2,Silver,1,E-Wallet,5,218.55,3,1
+CUST-10969,34,Male,Tier 2,Bronze,5,Debit Card,4,163.32,3,1
+CUST-10970,37,Female,Tier 1,Platinum,6,UPI,8,169.57,4,0
+CUST-10971,30,Female,Tier 3,Silver,3,Credit Card,5,165.59,5,0
+CUST-10972,33,Female,Tier 3,Bronze,12,Credit Card,13,287.37,1,0
+CUST-10973,18,Male,Tier 2,Gold,8,UPI,5,164.02,,0
+CUST-10974,46,Male,Tier 2,Bronze,0,Credit Card,4,168.6,4,1
+CUST-10975,39,Male,Tier 3,Platinum,5,Debit Card,7,226.2,5,0
+CUST-10976,29,Female,Tier 1,Bronze,23,Debit Card,4,161.93,5,0
+CUST-10977,55,Male,Tier 2,Silver,16,UPI,7,175.89,4,0
+CUST-10978,37,Male,Tier 1,Bronze,,UPI,7,195.03,3,0
+CUST-10979,26,Female,Tier 2,Silver,16,Credit Card,11,294.45,2,0
+CUST-10980,45,Male,Tier 1,Gold,5,E-Wallet,1,182.55,3,1
+CUST-10981,40,Female,Tier 3,Gold,1,Credit Card,5,119.4,4,1
+CUST-10982,40,Male,Tier 3,Bronze,4,Debit Card,4,200.73,4,0
+CUST-10983,32,Male,Tier 1,Bronze,24,UPI,9,235.5,4,0
+CUST-10984,41,Female,Tier 2,Gold,55,UPI,10,267.72,4,0
+CUST-10985,34,Male,Tier 3,Platinum,9,Cash on Delivery,4,151.49,3,0
+CUST-10986,42,Female,Tier 2,Bronze,0,Credit Card,3,102.95,4,1
+CUST-10987,18,Male,Tier 3,Silver,2,UPI,3,173.53,2,1
+CUST-10988,32,Male,Tier 2,Bronze,5,UPI,4,139.77,2,1
+CUST-10989,54,Female,Tier 1,Gold,12,E-Wallet,5,138.35,2,1
+CUST-10990,29,Female,Tier 1,Bronze,1,Credit Card,6,152.45,5,0
+CUST-10991,30,Female,Tier 1,Bronze,40,UPI,13,294.03,1,0
+CUST-10992,32,Male,Tier 2,Gold,6,UPI,8,220.18,4,0
+CUST-10993,24,Female,Tier 1,Bronze,34,Credit Card,9,251.47,2,0
+CUST-10994,18,Male,Tier 2,Silver,21,Debit Card,2,164.07,3,0
+CUST-10995,34,Male,Tier 2,Silver,19,Debit Card,4,155.37,5,0
+CUST-10996,38,Female,Tier 2,Bronze,13,UPI,5,177.89,4,0
+CUST-10997,36,Male,Tier 3,Bronze,13,E-Wallet,8,200.66,2,0
+CUST-10998,35,Female,Tier 3,Silver,14,UPI,6,185.69,2,1
+CUST-10999,37,Male,Tier 1,Bronze,13,UPI,7,174.98,5,0
+CUST-11000,47,Male,Tier 3,Silver,11,Debit Card,4,179.71,3,1
+CUST-11001,35,Female,Tier 2,Gold,60,Credit Card,11,284.25,4,0
+CUST-11002,31,Female,Tier 2,Gold,18,Credit Card,6,,3,0
+CUST-11003,34,Female,Tier 3,Bronze,21,Debit Card,6,230.44,3,0
+CUST-11004,42,Female,Tier 1,Bronze,28,Credit Card,7,207.41,2,0
+CUST-11005,51,Female,Tier 1,Bronze,3,Credit Card,4,175.23,4,1
+CUST-11006,30,Female,Tier 3,Bronze,1,Debit Card,3,105.02,4,1
+CUST-11007,37,Female,Tier 1,Silver,9,Debit Card,10,185.78,2,0
+CUST-11008,40,Male,Tier 3,Silver,10,Credit Card,6,196.32,4,0
+CUST-11009,27,Male,Tier 3,Bronze,24,Debit Card,6,215.69,5,0
+CUST-11010,37,Male,Tier 1,Bronze,8,Credit Card,5,159.86,5,0
+CUST-11011,22,Female,Tier 3,Bronze,11,Cash on Delivery,6,242.1,2,1
+CUST-11012,19,Female,Tier 1,Silver,10,E-Wallet,5,202.05,3,1
+CUST-11013,40,Male,Tier 2,Bronze,0,UPI,1,104.75,5,1
+CUST-11014,33,Female,Tier 2,Silver,13,Credit Card,3,156.93,2,1
+CUST-11015,39,Female,Tier 3,Bronze,24,UPI,7,278.31,1,0
+CUST-11016,36,Male,Tier 1,Gold,2,E-Wallet,6,154.72,5,0
+CUST-11017,27,Female,Tier 2,Gold,12,UPI,3,171.85,3,0
+CUST-11018,36,Female,Tier 2,Bronze,12,Credit Card,4,158.32,3,1
+CUST-11019,24,Male,Tier 2,Bronze,2,UPI,5,201.21,3,1
+CUST-11020,50,Female,Tier 2,Silver,1,E-Wallet,8,254.02,4,0
+CUST-11021,23,Male,Tier 1,Bronze,54,UPI,12,252.41,3,0
+CUST-11022,35,Female,Tier 1,Silver,7,UPI,5,213.57,5,0
+CUST-11023,26,Female,Tier 1,Gold,3,Debit Card,2,210.64,4,0
+CUST-11024,42,Female,Tier 3,Silver,2,Debit Card,1,133.99,3,1
+CUST-11025,33,Male,Tier 1,Gold,15,Credit Card,6,215.55,3,0
+CUST-11026,31,Female,Tier 1,Bronze,13,UPI,5,,2,1
+CUST-11027,45,Female,Tier 3,Bronze,14,Credit Card,5,,4,0
+CUST-11028,37,Male,Tier 1,Gold,1,Debit Card,4,162.7,3,1
+CUST-11029,42,Female,Tier 3,Bronze,31,Credit Card,11,275.91,5,0
+CUST-11030,27,Male,Tier 2,Silver,6,UPI,7,240.14,3,0
+CUST-11031,22,Female,Tier 3,Bronze,5,Credit Card,9,224.71,3,1
+CUST-11032,38,Male,Tier 1,Bronze,8,UPI,5,226.01,3,0
+CUST-11033,33,Male,Tier 1,Platinum,6,UPI,4,213.9,4,0
+CUST-11034,43,Male,Tier 2,Bronze,27,Credit Card,1,157.41,3,0
+CUST-11035,36,Female,Tier 3,Platinum,37,Credit Card,7,188.52,2,0
+CUST-11036,39,Male,Tier 2,Platinum,5,Credit Card,3,137.65,5,0
+CUST-11037,20,Female,Tier 1,Gold,27,E-Wallet,12,239.63,4,0
+CUST-11038,55,Male,Tier 2,Silver,21,Debit Card,12,292.47,4,0
+CUST-11039,35,Male,Tier 2,Silver,37,Debit Card,13,239.65,4,0
+CUST-11040,43,Female,Tier 2,Gold,3,Credit Card,3,176.31,4,0
+CUST-11041,28,Female,Tier 2,Bronze,12,UPI,10,207.57,3,0
+CUST-11042,40,Male,Tier 3,Silver,4,E-Wallet,5,204.71,1,1
+CUST-11043,23,Female,Tier 2,Silver,24,E-Wallet,4,168.52,4,0
+CUST-11044,41,Female,Tier 1,Silver,0,UPI,2,184.01,2,1
+CUST-11045,33,Female,Tier 2,Silver,11,Credit Card,2,178.24,4,0
+CUST-11046,37,Male,Tier 1,Bronze,5,Credit Card,6,235.05,1,1
+CUST-11047,43,Male,Tier 1,Silver,5,Credit Card,3,199.82,3,1
+CUST-11048,24,Female,Tier 1,Gold,14,Credit Card,14,292.31,1,0
+CUST-11049,30,Male,Tier 1,Bronze,26,Credit Card,6,157.24,3,0
+CUST-11050,41,Female,Tier 1,Platinum,13,Credit Card,5,148.42,4,0
+CUST-11051,57,Female,Tier 1,Silver,26,Debit Card,12,201.39,2,0
+CUST-11052,35,Female,Tier 3,Gold,4,Cash on Delivery,9,195.49,3,1
+CUST-11053,42,Female,Tier 3,Silver,,UPI,3,158.06,5,0
+CUST-11054,35,Female,Tier 1,Gold,8,E-Wallet,7,187.21,3,0
+CUST-11055,56,Male,Tier 3,Bronze,0,UPI,4,162.6,4,1
+CUST-11056,19,Female,Tier 2,Gold,11,Credit Card,7,218.78,5,0
+CUST-11057,37,Male,Tier 1,Bronze,15,UPI,7,194.88,5,0
+CUST-11058,20,Male,Tier 1,Gold,12,Credit Card,9,194.35,5,0
+CUST-11059,18,Female,Tier 2,Platinum,18,UPI,8,214.4,3,0
+CUST-11060,39,Female,Tier 2,Bronze,11,Debit Card,6,165.05,5,0
+CUST-11061,38,Female,Tier 2,Bronze,0,Cash on Delivery,5,171.88,4,1
+CUST-11062,34,Female,Tier 1,Gold,1,Credit Card,7,244.28,4,0
+CUST-11063,35,Male,Tier 1,Bronze,12,Credit Card,7,195.88,1,1
+CUST-11064,67,Male,Tier 1,Gold,4,Cash on Delivery,7,257.13,5,0
+CUST-11065,34,Female,Tier 1,Bronze,1,Credit Card,2,186.95,4,1
+CUST-11066,42,Male,Tier 1,Bronze,7,UPI,,162.62,4,0
+CUST-11067,30,Male,Tier 1,Platinum,11,UPI,,146.67,1,0
+CUST-11068,39,Male,Tier 3,Silver,5,E-Wallet,6,190.42,2,1
+CUST-11069,34,Male,Tier 3,Gold,17,Cash on Delivery,6,226.6,5,0
+CUST-11070,32,Male,Tier 1,Bronze,14,Cash on Delivery,3,141.29,3,1
+CUST-11071,55,Male,Tier 3,Silver,5,Credit Card,3,183.24,3,1
+CUST-11072,48,Male,Tier 1,Silver,19,E-Wallet,12,300.25,4,0
+CUST-11073,38,Male,Tier 2,Silver,14,UPI,6,168.78,1,1
+CUST-11074,18,Female,Tier 1,Silver,14,UPI,9,207.72,3,0
+CUST-11075,33,Male,Tier 2,Silver,11,Credit Card,2,165.38,3,0
+CUST-11076,64,Male,Tier 3,Silver,0,UPI,,172.56,3,1
+CUST-11077,34,Female,Tier 2,Bronze,16,Cash on Delivery,9,207.42,3,1
+CUST-11078,48,Male,Tier 1,Gold,6,E-Wallet,5,169.43,2,1
+CUST-11079,51,Female,Tier 2,Bronze,40,Debit Card,8,213.88,2,0
+CUST-11080,39,Female,Tier 1,Silver,23,Credit Card,12,217.05,4,0
+CUST-11081,28,Male,Tier 3,Bronze,12,Debit Card,10,,5,0
+CUST-11082,18,Male,Tier 2,Silver,4,E-Wallet,1,117.64,3,1
+CUST-11083,43,Female,Tier 1,Gold,3,UPI,6,108.49,2,1
+CUST-11084,28,Female,Tier 2,Bronze,,Debit Card,2,143.28,2,1
+CUST-11085,38,Male,Tier 2,Bronze,9,Credit Card,3,133.75,4,1
+CUST-11086,24,Female,Tier 1,Bronze,4,Debit Card,5,230.66,5,0
+CUST-11087,34,Male,Tier 2,Silver,10,Debit Card,3,138.44,3,1
+CUST-11088,37,Female,Tier 1,Gold,2,Cash on Delivery,4,135.07,2,1
+CUST-11089,39,Male,Tier 2,Bronze,53,UPI,14,303.24,4,0
+CUST-11090,25,Female,Tier 3,Gold,1,Credit Card,2,124.19,4,0
+CUST-11091,48,Female,Tier 3,Bronze,37,Debit Card,7,180.62,3,0
+CUST-11092,31,Female,Tier 2,Silver,34,Credit Card,9,243.29,4,0
+CUST-11093,20,Male,Tier 2,Platinum,10,Cash on Delivery,3,124.79,4,1
+CUST-11094,35,Male,Tier 1,Bronze,18,Debit Card,7,160.28,5,0
+CUST-11095,37,Male,Tier 2,Silver,8,Debit Card,8,267.78,2,0
+CUST-11096,38,Male,Tier 1,Bronze,13,Debit Card,11,269.38,5,0
+CUST-11097,50,Male,Tier 2,Bronze,5,UPI,6,184.07,3,1
+CUST-11098,34,Female,Tier 1,Bronze,5,UPI,6,191.9,4,0
+CUST-11099,35,Male,Tier 1,Bronze,12,UPI,8,231.18,4,0
+CUST-11100,25,Male,Tier 2,Silver,9,Credit Card,,245.2,,0
+CUST-11101,45,Female,Tier 1,Silver,12,Credit Card,2,121.32,4,0
+CUST-11102,38,Female,Tier 2,Silver,4,Credit Card,5,190.98,3,1
+CUST-11103,32,Female,Tier 1,Bronze,6,UPI,4,152.8,2,1
+CUST-11104,18,Female,Tier 1,Bronze,1,Credit Card,3,150.33,3,1
+CUST-11105,51,Male,Tier 2,Silver,0,UPI,4,172.82,3,1
+CUST-11106,24,Male,Tier 1,Platinum,4,E-Wallet,2,143.8,2,0
+CUST-11107,31,Female,Tier 1,Bronze,1,E-Wallet,4,190.07,5,1
+CUST-11108,40,Female,Tier 2,Gold,1,Debit Card,7,218.61,2,0
+CUST-11109,25,Male,Tier 1,Silver,23,Debit Card,5,134.75,3,0
+CUST-11110,22,Female,Tier 3,Silver,0,Credit Card,3,115.27,2,1
+CUST-11111,18,Male,Tier 1,Silver,15,UPI,7,192.91,3,0
+CUST-11112,44,Male,Tier 1,Bronze,4,E-Wallet,6,246.86,3,1
+CUST-11113,31,Female,Tier 2,Bronze,28,Credit Card,12,238.45,3,0
+CUST-11114,66,Female,Tier 1,Silver,9,Debit Card,7,197.75,2,1
+CUST-11115,27,Female,Tier 1,Bronze,5,E-Wallet,3,139.91,1,1
+CUST-11116,27,Male,Tier 1,Platinum,10,E-Wallet,6,175.38,4,0
+CUST-11117,31,Female,Tier 1,Silver,6,Credit Card,3,161.35,4,0
+CUST-11118,39,Male,Tier 3,Bronze,11,UPI,8,258.02,3,0
+CUST-11119,32,Male,Tier 1,Gold,1,Credit Card,,241.68,1,1
+CUST-11120,43,Female,Tier 2,Bronze,60,Credit Card,17,299.89,5,0
+CUST-11121,27,Female,Tier 3,Silver,7,E-Wallet,6,274.6,2,1
+CUST-11122,23,Female,Tier 1,Silver,5,E-Wallet,5,182.36,5,0
+CUST-11123,19,Female,Tier 3,Platinum,17,UPI,6,174.68,,0
+CUST-11124,18,Female,Tier 1,Gold,6,Credit Card,2,186.36,3,0
+CUST-11125,31,Female,Tier 3,Silver,25,E-Wallet,12,249.93,4,0
+CUST-11126,33,Male,Tier 1,Silver,8,Debit Card,3,205.89,5,0
+CUST-11127,30,Male,Tier 2,Platinum,17,Debit Card,3,129.88,3,0
+CUST-11128,49,Male,Tier 2,Bronze,1,UPI,9,,3,0
+CUST-11129,49,Male,Tier 1,Bronze,26,Credit Card,6,198.03,3,0
+CUST-11130,33,Female,Tier 2,Bronze,18,UPI,8,254.73,5,0
+CUST-11131,19,Male,Tier 2,Bronze,3,UPI,5,237.05,4,1
+CUST-11132,31,Male,Tier 1,Silver,2,Credit Card,1,98.02,2,1
+CUST-11133,31,Male,Tier 1,Silver,5,Credit Card,4,206.27,2,1
+CUST-11134,30,Female,Tier 2,Silver,52,Credit Card,9,185.73,2,0
+CUST-11135,30,Male,Tier 2,Bronze,,Credit Card,5,148.58,2,1
+CUST-11136,30,Female,Tier 3,Gold,8,UPI,10,215.9,2,0
+CUST-11137,33,Male,Tier 2,Bronze,0,E-Wallet,1,147.11,4,1
+CUST-11138,30,Male,Tier 3,Silver,7,Credit Card,5,180.99,1,1
+CUST-11139,39,Female,Tier 2,Silver,11,Credit Card,6,186.99,3,0
+CUST-11140,40,Female,Tier 1,Bronze,42,UPI,14,292.39,4,0
+CUST-11141,27,Male,Tier 1,Bronze,10,E-Wallet,7,221.74,2,1
+CUST-11142,49,Female,Tier 2,Bronze,23,Debit Card,9,248.05,1,0
+CUST-11143,27,Female,Tier 2,Gold,11,Debit Card,8,248.83,1,0
+CUST-11144,20,Male,Tier 1,Platinum,0,UPI,5,234.6,2,1
+CUST-11145,40,Female,Tier 1,Silver,5,Credit Card,4,167.36,4,1
+CUST-11146,28,Female,Tier 3,Bronze,11,Credit Card,12,248.37,4,0
+CUST-11147,40,Female,Tier 2,Silver,42,UPI,11,270.41,1,0
+CUST-11148,18,Female,Tier 1,Gold,27,UPI,9,193.67,3,0
+CUST-11149,50,Female,Tier 2,Gold,3,UPI,5,159.64,2,1
+CUST-11150,43,Female,Tier 1,Bronze,3,UPI,5,209.98,4,0
+CUST-11151,21,Female,Tier 1,Bronze,3,UPI,9,224.28,3,0
+CUST-11152,22,Female,Tier 1,Gold,35,Credit Card,12,227.75,3,0
+CUST-11153,53,Female,Tier 1,Bronze,26,Debit Card,6,147.31,3,0
+CUST-11154,29,Female,Tier 2,Bronze,20,Credit Card,14,289.46,2,0
+CUST-11155,28,Female,Tier 1,Bronze,6,Credit Card,2,178.26,4,0
+CUST-11156,18,Male,Tier 3,Silver,9,UPI,4,201.86,5,0
+CUST-11157,33,Female,Tier 3,Gold,8,E-Wallet,3,159.33,5,0
+CUST-11158,34,Female,Tier 1,Platinum,4,Cash on Delivery,2,204.27,1,1
+CUST-11159,44,Male,Tier 2,Silver,9,UPI,5,176.86,4,1
+CUST-11160,23,Female,Tier 2,Silver,0,Credit Card,3,151.84,4,0
+CUST-11161,21,Male,Tier 3,Bronze,1,Credit Card,10,162.98,5,0
+CUST-11162,41,Male,Tier 1,Silver,30,E-Wallet,9,214.58,2,0
+CUST-11163,47,Female,Tier 2,Bronze,19,UPI,8,241.56,4,0
+CUST-11164,21,Male,Tier 2,Silver,7,UPI,4,214.92,1,1
+CUST-11165,47,Female,Tier 1,Bronze,10,UPI,4,143.09,4,0
+CUST-11166,37,Female,Tier 1,Bronze,6,UPI,8,229.87,3,1
+CUST-11167,47,Male,Tier 2,Bronze,18,E-Wallet,4,199.41,4,0
+CUST-11168,36,Male,Tier 2,Bronze,21,Credit Card,8,216.34,5,0
+CUST-11169,18,Male,Tier 1,Bronze,20,UPI,7,135.5,3,0
+CUST-11170,35,Female,Tier 2,Bronze,17,E-Wallet,6,199.42,3,0
+CUST-11171,47,Female,Tier 1,Platinum,3,Credit Card,7,226.84,1,1
+CUST-11172,28,Female,Tier 2,Silver,5,UPI,3,127.58,3,1
+CUST-11173,33,Male,Tier 1,Silver,8,Credit Card,4,160.38,3,0
+CUST-11174,35,Female,Tier 3,Gold,5,Cash on Delivery,3,121.34,2,1
+CUST-11175,18,Female,Tier 1,Platinum,19,Credit Card,6,114.9,5,0
+CUST-11176,53,Female,Tier 1,Silver,5,UPI,3,186.81,2,1
+CUST-11177,27,Male,Tier 1,Gold,2,Credit Card,6,191.89,4,0
+CUST-11178,42,Female,Tier 1,Bronze,7,UPI,8,263.93,5,0
+CUST-11179,36,Female,Tier 2,Bronze,54,Credit Card,15,325.72,5,0
+CUST-11180,49,Female,Tier 1,Silver,3,Credit Card,7,193.37,4,1
+CUST-11181,41,Male,Tier 3,Silver,,Debit Card,9,225.5,2,0
+CUST-11182,34,Female,Tier 1,Silver,7,E-Wallet,1,148.99,4,0
+CUST-11183,28,Female,Tier 1,Bronze,1,Credit Card,4,197.01,2,1
+CUST-11184,44,Male,Tier 1,Bronze,9,Credit Card,4,177.68,5,0
+CUST-11185,18,Female,Tier 1,Silver,16,UPI,12,297.17,4,0
+CUST-11186,43,Female,Tier 1,Bronze,10,Debit Card,7,195.1,4,0
+CUST-11187,26,Male,Tier 1,Silver,28,E-Wallet,7,174.09,1,0
+CUST-11188,49,Male,Tier 2,Silver,4,Credit Card,8,214.06,4,0
+CUST-11189,38,Female,Tier 1,Gold,1,UPI,2,150.16,4,0
+CUST-11190,43,Male,Tier 2,Gold,38,Credit Card,10,203.95,5,0
+CUST-11191,37,Female,Tier 2,Gold,6,Credit Card,4,127.9,1,1
+CUST-11192,19,Male,Tier 1,Silver,12,UPI,5,193.42,5,0
+CUST-11193,28,Female,Tier 2,Gold,21,UPI,5,167.81,1,0
+CUST-11194,43,Male,Tier 3,Silver,5,UPI,4,163.02,4,0
+CUST-11195,38,Female,Tier 2,Bronze,17,Credit Card,11,241.21,4,0
+CUST-11196,48,Female,Tier 2,Bronze,2,Debit Card,5,225.62,1,1
+CUST-11197,41,Female,Tier 1,Bronze,4,Debit Card,5,217.85,1,1
+CUST-11198,27,Female,Tier 2,Silver,2,Cash on Delivery,5,142.88,4,1
+CUST-11199,29,Male,Tier 2,Silver,23,Credit Card,9,212.02,3,0
+CUST-11200,38,Female,Tier 2,Gold,3,Credit Card,7,229.5,1,1
+CUST-11201,18,Male,Tier 3,Bronze,17,Debit Card,7,222.06,4,0
+CUST-11202,53,Male,Tier 1,Bronze,40,UPI,8,214.76,4,0
+CUST-11203,41,Male,Tier 1,Platinum,10,Credit Card,5,145.87,4,0
+CUST-11204,49,Male,Tier 2,Bronze,10,E-Wallet,9,207.52,2,1
+CUST-11205,21,Female,Tier 3,Silver,8,Credit Card,11,236.5,1,1
+CUST-11206,49,Female,Tier 1,Silver,5,E-Wallet,9,236.31,4,0
+CUST-11207,59,Male,Tier 1,Silver,9,Credit Card,11,303.11,4,0
+CUST-11208,23,Male,Tier 1,Bronze,12,UPI,1,111.39,4,1
+CUST-11209,44,Female,Tier 1,Bronze,59,E-Wallet,13,245.22,4,0
+CUST-11210,37,Male,Tier 2,Bronze,38,Credit Card,10,236.74,3,0
+CUST-11211,21,Male,Tier 2,Silver,27,Cash on Delivery,4,198.95,2,0
+CUST-11212,41,Male,Tier 1,Silver,30,Debit Card,7,160.59,5,0
+CUST-11213,45,Female,Tier 1,Bronze,8,Cash on Delivery,6,,3,1
+CUST-11214,30,Female,Tier 1,Silver,14,UPI,7,198.84,4,0
+CUST-11215,48,Male,Tier 1,Gold,31,Credit Card,8,193.97,5,0
+CUST-11216,20,Male,Tier 2,Bronze,6,Credit Card,8,167.99,5,0
+CUST-11217,22,Female,Tier 3,Silver,45,Credit Card,12,285.2,4,0
+CUST-11218,38,Female,Tier 3,Silver,7,Credit Card,8,210.86,2,0
+CUST-11219,37,Male,Tier 1,Bronze,12,Credit Card,5,185.12,5,0
+CUST-11220,29,Female,Tier 3,Bronze,17,Credit Card,9,200.98,4,0
+CUST-11221,45,Male,Tier 2,Silver,42,Debit Card,10,230.43,3,0
+CUST-11222,42,Male,Tier 2,Gold,3,UPI,4,153.4,4,0
+CUST-11223,45,Female,Tier 2,Gold,19,Credit Card,8,212.98,3,0
+CUST-11224,35,Male,Tier 1,Silver,10,Credit Card,4,147.91,5,0
+CUST-11225,43,Female,Tier 1,Gold,4,UPI,5,133.97,3,0
+CUST-11226,32,Male,Tier 1,Bronze,20,Credit Card,14,369.85,4,0
+CUST-11227,57,Male,Tier 1,Silver,11,Credit Card,3,115.1,4,0
+CUST-11228,28,Female,Tier 1,Silver,15,Credit Card,1,137.44,4,0
+CUST-11229,58,Male,Tier 2,Bronze,5,Cash on Delivery,7,150.84,4,1
+CUST-11230,37,Female,Tier 2,Gold,9,E-Wallet,4,108.09,5,0
+CUST-11231,23,Male,Tier 2,Silver,13,Debit Card,5,182.93,3,0
+CUST-11232,50,Male,Tier 1,Bronze,7,UPI,6,197.23,1,1
+CUST-11233,38,Male,Tier 3,Platinum,3,Debit Card,1,169.84,4,0
+CUST-11234,45,Female,Tier 3,Bronze,45,UPI,9,239.99,3,0
+CUST-11235,49,Male,Tier 2,Bronze,10,UPI,4,163.51,2,1
+CUST-11236,40,Female,Tier 3,Bronze,18,UPI,9,199.51,1,1
+CUST-11237,31,Male,Tier 2,Gold,7,Credit Card,4,212.97,2,0
+CUST-11238,46,Female,Tier 3,Gold,,Credit Card,9,255.87,4,0
+CUST-11239,37,Male,Tier 1,Bronze,7,Debit Card,3,118.61,4,0
+CUST-11240,43,Female,Tier 1,Silver,7,E-Wallet,7,205.14,2,1
+CUST-11241,18,Female,Tier 1,Bronze,10,UPI,8,220.32,4,0
+CUST-11242,41,Female,Tier 1,Gold,10,E-Wallet,12,253.63,2,0
+CUST-11243,30,Female,Tier 1,Silver,9,Cash on Delivery,6,215.16,4,0
+CUST-11244,53,Female,Tier 2,Silver,2,Credit Card,3,180.95,3,1
+CUST-11245,43,Female,Tier 2,Platinum,9,UPI,7,198.29,4,0
+CUST-11246,39,Male,Tier 2,Bronze,2,UPI,3,147.57,3,1
+CUST-11247,41,Male,Tier 1,Bronze,1,Cash on Delivery,1,176.97,3,1
+CUST-11248,27,Female,Tier 3,Silver,37,Cash on Delivery,11,279.99,4,0
+CUST-11249,53,Female,Tier 2,Platinum,13,UPI,7,206.17,1,1
+CUST-11250,56,Female,Tier 1,Bronze,15,Credit Card,4,119.12,5,0
+CUST-11251,40,Male,Tier 2,Bronze,7,UPI,6,202.32,4,0
+CUST-11252,52,Male,Tier 1,Bronze,33,Credit Card,7,224.94,3,0
+CUST-11253,31,Male,Tier 1,Silver,14,UPI,5,97.36,4,0
+CUST-11254,29,Female,Tier 3,Bronze,20,E-Wallet,7,211.56,2,1
+CUST-11255,37,Male,Tier 1,Silver,6,Debit Card,7,191.5,3,0
+CUST-11256,41,Male,Tier 2,Platinum,45,UPI,16,305.37,5,0
+CUST-11257,33,Male,Tier 3,Silver,24,Debit Card,7,176.78,2,0
+CUST-11258,42,Male,Tier 2,Bronze,26,Debit Card,9,223.55,4,0
+CUST-11259,40,Female,Tier 1,Silver,2,Credit Card,6,233.76,3,0
+CUST-11260,27,Male,Tier 1,Bronze,4,UPI,5,166.61,4,1
+CUST-11261,42,Female,Tier 1,Gold,4,Cash on Delivery,7,232.97,2,1
+CUST-11262,45,Male,Tier 2,Silver,4,Cash on Delivery,11,227.81,3,1
+CUST-11263,38,Male,Tier 1,Bronze,27,Credit Card,14,310.76,5,0
+CUST-11264,48,Male,Tier 1,Silver,0,E-Wallet,5,180.05,2,1
+CUST-11265,24,Male,Tier 3,Silver,1,UPI,5,190.56,4,0
+CUST-11266,41,Male,Tier 2,Silver,4,Credit Card,9,228.21,4,0
+CUST-11267,25,Male,Tier 1,Bronze,3,Credit Card,2,163.25,4,1
+CUST-11268,25,Female,Tier 2,Gold,3,Credit Card,1,54.97,4,1
+CUST-11269,30,Male,Tier 2,Platinum,22,E-Wallet,8,173.41,3,0
+CUST-11270,27,Female,Tier 1,Silver,11,UPI,5,192.51,1,1
+CUST-11271,31,Female,Tier 1,Platinum,0,UPI,3,94.69,5,0
+CUST-11272,34,Female,Tier 3,Bronze,7,Credit Card,6,176.08,4,0
+CUST-11273,45,Male,Tier 2,Silver,7,UPI,4,166.37,2,1
+CUST-11274,33,Male,Tier 2,Silver,1,Credit Card,2,119.16,3,1
+CUST-11275,21,Male,Tier 1,Silver,15,Debit Card,7,183.25,4,0
+CUST-11276,48,Male,Tier 1,Silver,16,UPI,14,296.15,5,0
+CUST-11277,28,Female,Tier 1,Bronze,17,Credit Card,4,198.28,5,0
+CUST-11278,36,Male,Tier 1,Bronze,18,E-Wallet,6,163.25,5,0
+CUST-11279,41,Male,Tier 1,Bronze,0,Credit Card,4,150.75,2,1
+CUST-11280,38,Female,Tier 1,Bronze,43,UPI,15,278.06,5,0
+CUST-11281,47,Female,Tier 3,Gold,23,Debit Card,10,167.36,5,0
+CUST-11282,41,Female,Tier 3,Bronze,32,UPI,7,208.25,3,0
+CUST-11283,28,Male,Tier 2,Bronze,0,Credit Card,4,196.04,3,1
+CUST-11284,58,Male,Tier 3,Silver,38,Credit Card,8,246.5,3,0
+CUST-11285,38,Male,Tier 1,Silver,23,E-Wallet,10,213.88,4,0
+CUST-11286,35,Male,Tier 3,Gold,25,Credit Card,9,,2,0
+CUST-11287,46,Male,Tier 1,Silver,1,E-Wallet,5,180.65,1,1
+CUST-11288,39,Male,Tier 3,Bronze,18,Cash on Delivery,7,228.88,2,1
+CUST-11289,40,Male,Tier 3,Gold,45,Credit Card,10,244.65,3,0
+CUST-11290,61,Male,Tier 2,Silver,15,Credit Card,8,224.68,2,0
+CUST-11291,34,Male,Tier 3,Bronze,11,UPI,5,214.25,4,0
+CUST-11292,33,Female,Tier 2,Silver,40,Cash on Delivery,10,217.83,1,0
+CUST-11293,38,Female,Tier 1,Platinum,8,E-Wallet,6,185.4,5,0
+CUST-11294,47,Female,Tier 1,Bronze,12,Debit Card,5,229.04,5,0
+CUST-11295,21,Male,Tier 2,Bronze,9,UPI,5,174.1,5,0
+CUST-11296,18,Male,Tier 1,Bronze,37,Credit Card,6,153.98,4,0
+CUST-11297,31,Male,Tier 2,Bronze,1,Cash on Delivery,3,135.92,1,1
+CUST-11298,20,Female,Tier 3,Silver,9,Cash on Delivery,6,163.85,3,1
+CUST-11299,32,Female,Tier 1,Silver,16,Credit Card,10,250.71,2,0
+CUST-11300,42,Male,Tier 2,Bronze,21,Credit Card,5,153.12,5,0
+CUST-11301,28,Female,Tier 3,Platinum,12,Credit Card,4,176.13,3,1
+CUST-11302,22,Male,Tier 3,Gold,33,Credit Card,9,205.92,4,0
+CUST-11303,37,Female,Tier 3,Silver,39,E-Wallet,17,260.3,4,0
+CUST-11304,45,Female,Tier 2,Gold,0,Debit Card,4,177.2,5,0
+CUST-11305,20,Female,Tier 3,Bronze,7,Credit Card,4,172.45,4,0
+CUST-11306,45,Female,Tier 2,Silver,0,Debit Card,3,171.53,4,1
+CUST-11307,45,Female,Tier 1,Silver,5,Cash on Delivery,6,171.81,3,1
+CUST-11308,46,Male,Tier 2,Gold,10,UPI,3,132.61,4,0
+CUST-11309,49,Female,Tier 2,Gold,33,Debit Card,5,192.04,1,0
+CUST-11310,59,Male,Tier 1,Bronze,26,Credit Card,7,249.57,5,0
+CUST-11311,33,Female,Tier 2,Platinum,1,Cash on Delivery,5,180.34,3,0
+CUST-11312,38,Female,Tier 2,Bronze,1,E-Wallet,6,204.74,,1
+CUST-11313,32,Female,Tier 1,Gold,12,Credit Card,8,206.35,5,0
+CUST-11314,37,Male,Tier 2,Platinum,10,Credit Card,3,109.69,3,0
+CUST-11315,52,Female,Tier 2,Bronze,4,Credit Card,2,173.02,5,0
+CUST-11316,23,Female,Tier 2,Gold,32,Credit Card,13,303.25,5,0
+CUST-11317,28,Female,Tier 1,Bronze,36,UPI,10,261.32,4,0
+CUST-11318,50,Male,Tier 1,Silver,7,Cash on Delivery,8,210.54,1,1
+CUST-11319,47,Male,Tier 1,Silver,30,Debit Card,7,221.91,2,0
+CUST-11320,33,Male,Tier 3,Silver,6,E-Wallet,6,218.81,5,0
+CUST-11321,45,Male,Tier 1,Platinum,18,Debit Card,4,216.6,5,0
+CUST-11322,40,Female,Tier 2,Silver,9,UPI,4,197.66,3,0
+CUST-11323,52,Male,Tier 1,Silver,1,UPI,6,193.91,3,1
+CUST-11324,37,Female,Tier 1,Gold,36,Credit Card,9,188.75,2,0
+CUST-11325,47,Male,Tier 3,Platinum,8,Debit Card,10,244.67,5,0
+CUST-11326,63,Male,Tier 2,Bronze,18,UPI,8,223.7,2,0
+CUST-11327,42,Female,Tier 1,Platinum,6,Credit Card,5,201.27,2,1
+CUST-11328,37,Female,Tier 1,Bronze,0,Debit Card,4,208.62,4,1
+CUST-11329,44,Male,Tier 1,Gold,1,Debit Card,1,129.15,2,1
+CUST-11330,33,Female,Tier 2,Bronze,9,Cash on Delivery,7,267.03,5,0
+CUST-11331,60,Female,Tier 2,Bronze,16,Debit Card,4,115.22,1,1
+CUST-11332,38,Male,Tier 1,Silver,5,E-Wallet,4,180.58,1,1
+CUST-11333,34,Female,Tier 1,Silver,16,Debit Card,7,180.04,3,0
+CUST-11334,28,Female,Tier 1,Bronze,16,UPI,4,110.78,3,1
+CUST-11335,47,Female,Tier 3,Bronze,17,UPI,13,269.95,2,0
+CUST-11336,45,Male,Tier 3,Silver,9,E-Wallet,9,184.28,3,0
+CUST-11337,32,Female,Tier 1,Platinum,,Debit Card,15,295.16,3,0
+CUST-11338,42,Male,Tier 2,Bronze,9,UPI,10,241.04,5,0
+CUST-11339,21,Male,Tier 1,Bronze,8,UPI,4,201.56,1,1
+CUST-11340,38,Male,Tier 1,Silver,3,Debit Card,5,134.77,,0
+CUST-11341,41,Male,Tier 2,Bronze,5,Credit Card,5,207.25,4,1
+CUST-11342,54,Female,Tier 3,Gold,0,Credit Card,11,254.94,2,1
+CUST-11343,29,Female,Tier 3,Gold,14,Credit Card,5,210.87,1,0
+CUST-11344,24,Female,Tier 2,Silver,4,E-Wallet,7,191.05,3,0
+CUST-11345,28,Male,Tier 1,Bronze,5,Credit Card,4,128.03,2,1
+CUST-11346,23,Male,Tier 2,Gold,20,Credit Card,4,131.48,3,0
+CUST-11347,50,Male,Tier 1,Silver,5,UPI,2,105.25,2,1
+CUST-11348,52,Female,Tier 2,Gold,3,Debit Card,2,158.33,4,0
+CUST-11349,40,Male,Tier 1,Silver,2,Debit Card,2,188.31,4,0
+CUST-11350,49,Female,Tier 2,Gold,20,Credit Card,5,163.05,1,0
+CUST-11351,38,Female,Tier 1,Silver,1,Cash on Delivery,2,162.87,3,1
+CUST-11352,36,Male,Tier 1,Silver,8,E-Wallet,9,182.3,4,0
+CUST-11353,33,Female,Tier 3,Platinum,9,E-Wallet,7,209.41,1,1
+CUST-11354,33,Male,Tier 1,Silver,16,Debit Card,10,260.06,5,0
+CUST-11355,21,Female,Tier 2,Silver,14,UPI,6,148.56,4,0
+CUST-11356,39,Female,Tier 1,Bronze,23,Credit Card,6,185.88,5,0
+CUST-11357,36,Male,Tier 1,Silver,0,Credit Card,9,249.48,2,1
+CUST-11358,44,Male,Tier 1,Silver,4,Credit Card,4,79.99,5,0
+CUST-11359,37,Female,Tier 1,Bronze,4,UPI,,208.06,4,0
+CUST-11360,35,Female,Tier 3,Bronze,2,Debit Card,4,178.61,4,0
+CUST-11361,28,Male,Tier 1,Silver,4,Debit Card,2,165.5,3,1
+CUST-11362,37,Female,Tier 3,Gold,5,Credit Card,3,143.62,1,1
+CUST-11363,44,Female,Tier 2,Silver,10,Debit Card,6,140.32,5,0
+CUST-11364,25,Female,Tier 1,Bronze,15,UPI,8,232.02,4,0
+CUST-11365,37,Male,Tier 2,Silver,6,Debit Card,6,,1,1
+CUST-11366,39,Female,Tier 2,Bronze,17,UPI,5,180.96,1,1
+CUST-11367,29,Female,Tier 2,Silver,5,Credit Card,7,236.63,1,1
+CUST-11368,31,Male,Tier 1,Bronze,4,E-Wallet,6,214.86,4,1
+CUST-11369,39,Male,Tier 1,Bronze,10,UPI,4,225.64,4,0
+CUST-11370,25,Female,Tier 3,Bronze,0,Credit Card,3,160.62,3,1
+CUST-11371,40,Male,Tier 3,Bronze,1,Credit Card,3,135.26,,1
+CUST-11372,28,Female,Tier 3,Bronze,7,UPI,3,150.35,3,1
+CUST-11373,47,Male,Tier 1,Bronze,40,E-Wallet,10,252.47,3,0
+CUST-11374,60,Male,Tier 2,Silver,17,Debit Card,4,198.48,1,1
+CUST-11375,28,Female,Tier 2,Silver,1,Credit Card,2,99.99,2,1
+CUST-11376,42,Male,Tier 2,Bronze,26,E-Wallet,11,252.26,1,0
+CUST-11377,29,Male,Tier 1,Gold,18,UPI,6,240.29,5,0
+CUST-11378,47,Male,Tier 2,Bronze,13,Debit Card,4,160.79,4,1
+CUST-11379,24,Female,Tier 1,Silver,24,Debit Card,9,255.93,5,0
+CUST-11380,41,Male,Tier 1,Bronze,7,Credit Card,5,194.79,3,1
+CUST-11381,28,Male,Tier 3,Bronze,3,UPI,7,232.68,5,0
+CUST-11382,34,Female,Tier 1,Silver,10,Debit Card,7,179.71,4,0
+CUST-11383,26,Male,Tier 1,Silver,11,Cash on Delivery,5,155.84,3,1
+CUST-11384,45,Female,Tier 1,Gold,10,Debit Card,3,156.61,2,1
+CUST-11385,28,Male,Tier 3,Silver,11,Debit Card,8,,4,0
+CUST-11386,42,Female,Tier 2,Platinum,41,UPI,10,231.91,,0
+CUST-11387,33,Male,Tier 1,Bronze,32,E-Wallet,15,307.59,2,0
+CUST-11388,35,Female,Tier 3,Bronze,29,E-Wallet,4,221.54,2,0
+CUST-11389,38,Male,Tier 3,Bronze,22,Debit Card,6,204.08,4,0
+CUST-11390,29,Male,Tier 1,Bronze,40,UPI,9,246.76,5,0
+CUST-11391,39,Male,Tier 2,Silver,1,UPI,9,262.93,4,0
+CUST-11392,52,Male,Tier 2,Silver,4,Debit Card,3,127.06,2,1
+CUST-11393,29,Male,Tier 2,Bronze,9,Credit Card,3,151.05,3,1
+CUST-11394,48,Male,Tier 1,Platinum,26,Debit Card,8,288.76,3,0
+CUST-11395,51,Female,Tier 3,Gold,9,Credit Card,2,141.63,5,0
+CUST-11396,28,Male,Tier 2,Bronze,19,E-Wallet,5,213.49,4,0
+CUST-11397,22,Male,Tier 1,Bronze,2,Debit Card,10,268.91,4,0
+CUST-11398,40,Female,Tier 1,Bronze,4,Cash on Delivery,7,159.66,2,1
+CUST-11399,31,Female,Tier 1,Bronze,18,Debit Card,7,213.31,5,0
+CUST-11400,55,Male,Tier 1,Bronze,2,UPI,2,148.4,4,1
+CUST-11401,37,Male,Tier 2,Silver,6,UPI,5,189.9,5,0
+CUST-11402,28,Male,Tier 1,Bronze,4,Credit Card,4,145.38,4,1
+CUST-11403,25,Female,Tier 1,Bronze,,Debit Card,3,122.49,4,0
+CUST-11404,47,Female,Tier 2,Platinum,17,Credit Card,5,165.72,4,0
+CUST-11405,31,Male,Tier 1,Silver,6,UPI,6,189.07,3,0
+CUST-11406,37,Female,Tier 3,Platinum,11,Debit Card,5,215.55,5,0
+CUST-11407,46,Female,Tier 1,Bronze,,UPI,7,258.52,1,1
+CUST-11408,32,Female,Tier 1,Bronze,22,Credit Card,11,293.9,4,0
+CUST-11409,36,Female,Tier 1,Silver,6,Credit Card,7,229.81,5,0
+CUST-11410,36,Male,Tier 1,Bronze,14,Debit Card,5,149.87,3,1
+CUST-11411,43,Male,Tier 1,Bronze,18,Cash on Delivery,10,227.73,4,0
+CUST-11412,42,Male,Tier 2,Silver,3,UPI,4,174.3,4,0
+CUST-11413,34,Male,Tier 3,Silver,30,Debit Card,8,197.03,4,0
+CUST-11414,37,Female,Tier 1,Silver,13,Debit Card,4,185.32,5,0
+CUST-11415,33,Female,Tier 2,Silver,7,Credit Card,8,237.61,4,0
+CUST-11416,22,Male,Tier 2,Silver,2,Cash on Delivery,6,208.09,,1
+CUST-11417,39,Male,Tier 3,Bronze,39,UPI,10,270.75,3,0
+CUST-11418,55,Male,Tier 1,Bronze,19,Credit Card,9,200.86,2,0
+CUST-11419,28,Female,Tier 1,Bronze,3,UPI,6,219.98,3,1
+CUST-11420,29,Male,Tier 1,Bronze,5,Credit Card,3,135.13,4,1
+CUST-11421,28,Male,Tier 2,Platinum,23,Cash on Delivery,7,175.77,2,0
+CUST-11422,44,Male,Tier 3,Silver,16,Credit Card,7,219.96,4,0
+CUST-11423,41,Male,Tier 1,Gold,20,UPI,6,228.48,3,0
+CUST-11424,35,Female,Tier 1,Bronze,8,Credit Card,4,182.64,4,0
+CUST-11425,27,Female,Tier 3,Bronze,17,UPI,10,240.62,1,1
+CUST-11426,37,Male,Tier 3,Bronze,6,UPI,7,213.3,4,0
+CUST-11427,21,Female,Tier 3,Bronze,3,UPI,5,184.09,4,0
+CUST-11428,38,Female,Tier 2,Bronze,14,UPI,14,254.22,5,0
+CUST-11429,45,Female,Tier 1,Gold,52,E-Wallet,11,214.72,4,0
+CUST-11430,24,Male,Tier 2,Silver,5,Credit Card,4,165.64,4,0
+CUST-11431,21,Male,Tier 2,Silver,8,Debit Card,10,242.4,5,0
+CUST-11432,52,Male,Tier 1,Silver,15,Credit Card,11,252.34,4,0
+CUST-11433,30,Female,Tier 2,Platinum,10,Cash on Delivery,10,260.28,2,0
+CUST-11434,48,Male,Tier 2,Bronze,25,Debit Card,5,173.54,5,0
+CUST-11435,35,Male,Tier 1,Bronze,20,UPI,10,256.89,4,0
+CUST-11436,35,Male,Tier 2,Bronze,0,UPI,3,151.66,3,1
+CUST-11437,41,Female,Tier 2,Gold,,Credit Card,13,330.7,4,0
+CUST-11438,28,Male,Tier 3,Platinum,19,Credit Card,10,242.42,5,0
+CUST-11439,38,Female,Tier 1,Bronze,27,Credit Card,8,286.22,5,0
+CUST-11440,33,Female,Tier 1,Gold,14,Debit Card,9,238.56,,0
+CUST-11441,23,Male,Tier 2,Gold,27,Credit Card,9,221.59,3,0
+CUST-11442,40,Female,Tier 1,Bronze,1,Credit Card,3,129.02,3,1
+CUST-11443,34,Male,Tier 2,Bronze,5,E-Wallet,4,124.71,1,1
+CUST-11444,35,Female,Tier 2,Silver,29,Cash on Delivery,5,150.26,2,0
+CUST-11445,24,Male,Tier 1,Platinum,3,Debit Card,8,189.61,5,0
+CUST-11446,52,Female,Tier 2,Bronze,1,Debit Card,6,203.84,3,1
+CUST-11447,45,Female,Tier 2,Gold,21,Credit Card,8,200.22,4,0
+CUST-11448,46,Female,Tier 1,Bronze,25,UPI,17,329.61,4,0
+CUST-11449,33,Female,Tier 3,Gold,2,E-Wallet,3,194.46,4,1
+CUST-11450,19,Male,Tier 3,Silver,26,Credit Card,7,201.37,2,0
+CUST-11451,56,Female,Tier 2,Silver,16,Credit Card,4,230.37,3,0
+CUST-11452,36,Female,Tier 2,Gold,10,UPI,13,240.73,3,0
+CUST-11453,29,Female,Tier 2,Gold,24,UPI,13,271.48,3,0
+CUST-11454,41,Male,Tier 3,Gold,7,Credit Card,3,139.82,5,0
+CUST-11455,48,Female,Tier 2,Bronze,3,UPI,5,208.1,4,1
+CUST-11456,36,Female,Tier 2,Silver,4,Credit Card,2,76.81,,1
+CUST-11457,49,Female,Tier 3,Bronze,9,Debit Card,4,124.71,5,1
+CUST-11458,47,Male,Tier 1,Silver,10,UPI,2,140.78,3,0
+CUST-11459,26,Female,Tier 3,Silver,22,E-Wallet,8,262.54,4,0
+CUST-11460,30,Male,Tier 1,Silver,21,Debit Card,3,162.78,2,0
+CUST-11461,46,Female,Tier 1,Silver,12,Cash on Delivery,7,,4,1
+CUST-11462,18,Male,Tier 1,Platinum,21,Debit Card,8,180.09,3,0
+CUST-11463,35,Female,Tier 3,Bronze,2,UPI,3,206.19,1,1
+CUST-11464,22,Female,Tier 3,Silver,0,Debit Card,5,161.37,2,1
+CUST-11465,32,Male,Tier 2,Bronze,28,E-Wallet,12,235.71,3,0
+CUST-11466,34,Female,Tier 2,Bronze,1,E-Wallet,4,212.32,4,1
+CUST-11467,33,Male,Tier 2,Bronze,3,Credit Card,7,234.33,1,1
+CUST-11468,31,Female,Tier 3,Platinum,16,Cash on Delivery,4,206.22,4,0
+CUST-11469,26,Female,Tier 2,Gold,7,E-Wallet,6,163.5,4,0
+CUST-11470,59,Female,Tier 1,Platinum,29,UPI,12,218.25,4,0
+CUST-11471,55,Female,Tier 1,Platinum,4,Credit Card,3,159.99,4,0
+CUST-11472,25,Female,Tier 2,Bronze,0,E-Wallet,1,142.05,2,1
+CUST-11473,52,Male,Tier 2,Bronze,5,E-Wallet,6,202.94,4,1
+CUST-11474,33,Male,Tier 1,Silver,12,Credit Card,4,212.35,5,0
+CUST-11475,38,Female,Tier 1,Silver,6,Cash on Delivery,7,151.99,,0
+CUST-11476,36,Female,Tier 3,Silver,10,Credit Card,3,181.79,4,0
+CUST-11477,30,Female,Tier 1,Bronze,29,Credit Card,9,195.1,4,0
+CUST-11478,46,Female,Tier 2,Silver,34,Debit Card,7,229.67,3,0
+CUST-11479,38,Male,Tier 3,Silver,4,UPI,4,153.75,4,1
+CUST-11480,32,Female,Tier 1,Bronze,8,UPI,1,107.58,5,0
+CUST-11481,23,Male,Tier 1,Silver,11,Credit Card,3,137.7,1,1
+CUST-11482,28,Female,Tier 2,Silver,41,Cash on Delivery,16,268.63,5,0
+CUST-11483,20,Male,Tier 3,Silver,60,Credit Card,21,373.21,2,0
+CUST-11484,37,Male,Tier 2,Bronze,3,Credit Card,3,132.82,3,1
+CUST-11485,25,Male,Tier 3,Gold,18,Credit Card,4,191.59,5,0
+CUST-11486,34,Male,Tier 1,Bronze,6,UPI,,199.2,4,1
+CUST-11487,50,Female,Tier 2,Bronze,0,Cash on Delivery,4,218.64,5,0
+CUST-11488,48,Male,Tier 2,Gold,0,UPI,2,154.99,5,0
+CUST-11489,36,Male,Tier 3,Silver,8,E-Wallet,3,171.62,3,1
+CUST-11490,36,Male,Tier 1,Bronze,9,Credit Card,6,234,4,0
+CUST-11491,55,Male,Tier 3,Silver,0,UPI,5,161.17,3,1
+CUST-11492,42,Male,Tier 2,Silver,16,Debit Card,3,111.35,3,0
+CUST-11493,33,Male,Tier 1,Gold,4,Debit Card,2,,3,1
+CUST-11494,22,Female,Tier 1,Gold,11,Credit Card,6,149.32,4,0
+CUST-11495,40,Female,Tier 3,Silver,5,UPI,7,277.62,3,0
+CUST-11496,45,Female,Tier 1,Silver,2,Debit Card,5,223.66,4,0
+CUST-11497,30,Male,Tier 1,Bronze,7,UPI,5,244.92,4,0
+CUST-11498,39,Male,Tier 1,Bronze,3,Debit Card,5,181.87,1,1
+CUST-11499,33,Female,Tier 3,Silver,10,Credit Card,2,160.52,4,0
+CUST-10710,28,Female,Tier 2,Bronze,,Cash on Delivery,9,158.51,3,1
+CUST-11244,53,Female,Tier 2,Silver,2,Credit Card,3,180.95,3,1
+CUST-10848,56,Male,Tier 2,Gold,3,Debit Card,7,168.73,3,1
+CUST-10287,40,Female,Tier 2,Gold,5,E-Wallet,3,119.52,4,0
+CUST-10454,33,Male,Tier 3,Platinum,3,Debit Card,4,201.66,2,0
+CUST-10373,39,Female,Tier 3,Silver,52,Credit Card,10,289.15,5,0
+CUST-11320,33,Male,Tier 3,Silver,6,E-Wallet,6,218.81,5,0
+CUST-10627,34,Female,Tier 1,Gold,5,Credit Card,2,103.27,3,0
+CUST-10286,38,Male,Tier 2,Bronze,6,E-Wallet,3,148.9,3,1
+CUST-10546,29,Male,Tier 1,Bronze,40,Debit Card,11,194.1,1,0
+CUST-10119,62,Female,Tier 2,Bronze,3,E-Wallet,6,214.73,4,1
+CUST-10047,18,Female,Tier 2,Bronze,10,UPI,4,121.14,2,1
+CUST-10957,35,Male,Tier 2,Silver,16,Debit Card,9,225.17,4,0
+CUST-11383,26,Male,Tier 1,Silver,11,Cash on Delivery,5,155.84,3,1
+CUST-10459,36,Male,Tier 2,Silver,21,UPI,12,194.72,2,0
+CUST-11142,49,Female,Tier 2,Bronze,23,Debit Card,9,248.05,1,0
+CUST-10728,36,Male,Tier 1,Bronze,22,Credit Card,8,162.09,4,0
+CUST-11091,48,Female,Tier 3,Bronze,37,Debit Card,7,180.62,3,0
+CUST-10707,36,Female,Tier 3,Bronze,42,Debit Card,10,205.4,5,0
+CUST-10701,33,Male,Tier 1,Silver,,Cash on Delivery,5,155.5,3,0
+CUST-10812,33,Male,Tier 2,Bronze,5,Cash on Delivery,5,156.6,4,1
+CUST-10995,34,Male,Tier 2,Silver,19,Debit Card,4,155.37,5,0
+CUST-10519,31,Male,Tier 2,Bronze,59,E-Wallet,10,216.76,3,0
+CUST-11404,47,Female,Tier 2,Platinum,17,Credit Card,5,165.72,4,0
+CUST-11318,50,Male,Tier 1,Silver,7,Cash on Delivery,8,210.54,1,1
+CUST-11272,34,Female,Tier 3,Bronze,7,Credit Card,6,176.08,4,0
+CUST-10363,33,Female,Tier 2,Bronze,1,Debit Card,,170.12,2,1
+CUST-10903,44,Female,Tier 1,Bronze,7,Credit Card,7,230.38,3,1
+CUST-10509,28,Female,Tier 2,Bronze,11,Debit Card,9,221.32,2,0
+CUST-11260,27,Male,Tier 1,Bronze,4,UPI,5,166.61,4,1
